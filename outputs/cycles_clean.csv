@@ -1,0 +1,1125 @@
+cat,cycle,t0,half,pre_bg,dose,no_shot,partial,n_readings,remark,nadir
+Cat_2,Cat_2_20260101_am,2026-01-01 07:00:00,am,213.0,1.75,False,False,3,"AM: LC at +1, +2, +3 and +7. PM: SHC at +1, +2, +3 and +4. LC at +6.",139.0
+Cat_2,Cat_2_20260101_pm,2026-01-01 19:00:00,pm,152.0,1.75,False,False,2,"AM: LC at +1, +2, +3 and +7. PM: SHC at +1, +2, +3 and +4. LC at +6.",67.0
+Cat_2,Cat_2_20260102_am,2026-01-02 07:00:00,am,114.0,1.75,False,False,3,"AM: SHC at +1, +2, +3 & +4. LC at +6 & +9. PM: LC at +1, +2, +5 and +6.",65.0
+Cat_2,Cat_2_20260102_pm,2026-01-02 19:00:00,pm,168.0,1.75,False,False,2,"AM: SHC at +1, +2, +3 & +4. LC at +6 & +9. PM: LC at +1, +2, +5 and +6.",83.0
+Cat_2,Cat_2_20260103_am,2026-01-03 07:00:00,am,180.0,1.75,False,False,3,"AM: LC at +1, +2, +3, +6 and +9. PM: SHC at +1, +2, +3 and +5.",77.0
+Cat_2,Cat_2_20260103_pm,2026-01-03 19:00:00,pm,112.0,1.75,False,False,2,"AM: LC at +1, +2, +3, +6 and +9. PM: SHC at +1, +2, +3 and +5.",63.0
+Cat_2,Cat_2_20260104_am,2026-01-04 07:00:00,am,260.0,1.75,False,False,3,"AM: LC at +2, +3, +5, +6 and +9. PM: SHC at +1, +2 and +3. LC at +6 and +9.",105.0
+Cat_2,Cat_2_20260104_pm,2026-01-04 19:00:00,pm,106.0,1.75,False,False,3,"AM: LC at +2, +3, +5, +6 and +9. PM: SHC at +1, +2 and +3. LC at +6 and +9.",63.0
+Cat_2,Cat_2_20260105_am,2026-01-05 07:00:00,am,149.0,1.75,False,False,3,"AM: SHC at +1. LC at +2, +4, +6 and +9. PM: SHC at +1, +2 and +3. LC at +6.",88.0
+Cat_2,Cat_2_20260105_pm,2026-01-05 19:00:00,pm,110.0,1.75,False,False,2,"AM: SHC at +1. LC at +2, +4, +6 and +9. PM: SHC at +1, +2 and +3. LC at +6.",83.0
+Cat_2,Cat_2_20260106_am,2026-01-06 07:00:00,am,157.0,1.75,False,False,4,"AM: LC at +1, +2, +4, +6 and +9. PM: LC at +1, +2, +3, +4 and +6.",69.0
+Cat_2,Cat_2_20260106_pm,2026-01-06 19:00:00,pm,165.0,1.75,False,False,2,"AM: LC at +1, +2, +4, +6 and +9. PM: LC at +1, +2, +3, +4 and +6.",67.0
+Cat_2,Cat_2_20260107_am,2026-01-07 07:00:00,am,219.0,1.75,False,False,4,"AM: LC at +2, +3, +4, +6 and +9. PM: SHC at +1. LC at +2, +3, +6 and +9.",75.0
+Cat_2,Cat_2_20260107_pm,2026-01-07 19:00:00,pm,141.0,1.75,False,False,2,"AM: LC at +2, +3, +4, +6 and +9. PM: SHC at +1. LC at +2, +3, +6 and +9.",144.0
+Cat_2,Cat_2_20260108_am,2026-01-08 07:00:00,am,157.0,1.75,False,False,4,"AM: LC at +1, +2, +3, +4, +6 & +9. PM: SHC at +1, +2 and +3. LC at +6.",63.0
+Cat_2,Cat_2_20260108_pm,2026-01-08 19:00:00,pm,135.0,1.75,False,False,2,"AM: LC at +1, +2, +3, +4, +6 & +9. PM: SHC at +1, +2 and +3. LC at +6.",61.0
+Cat_2,Cat_2_20260109_am,2026-01-09 07:00:00,am,197.0,1.75,False,False,4,"AM: LC at +1, +2, +3, +4, +5 & +8. PM: SHC at +1. HC at +3 & +3.5. LC at +7 and +9.",57.0
+Cat_2,Cat_2_20260109_pm,2026-01-09 19:00:00,pm,144.0,1.75,False,False,3,"AM: LC at +1, +2, +3, +4, +5 & +8. PM: SHC at +1. HC at +3 & +3.5. LC at +7 and +9.",49.0
+Cat_2,Cat_2_20260110_am,2026-01-10 07:00:00,am,228.0,1.75,False,False,3,"AM: LC at +2, +4, +5, +6 and +9. PM: SHC at +1 & +2. LC at +4 and +7.",99.0
+Cat_2,Cat_2_20260110_pm,2026-01-10 19:00:00,pm,106.0,1.75,False,False,2,"AM: LC at +2, +4, +5, +6 and +9. PM: SHC at +1 & +2. LC at +4 and +7.",76.0
+Cat_2,Cat_2_20260111_am,2026-01-11 07:00:00,am,170.0,1.75,False,False,3,"AM: LC at +1, +2, +4, +6 and +7. PM: SHC at +1. HC at +2, +2.5 & +3. LC at +6.",86.0
+Cat_2,Cat_2_20260111_pm,2026-01-11 19:00:00,pm,81.0,1.75,False,False,4,"AM: LC at +1, +2, +4, +6 and +7. PM: SHC at +1. HC at +2, +2.5 & +3. LC at +6.",45.0
+Cat_2,Cat_2_20260112_am,2026-01-12 07:00:00,am,234.0,1.75,False,False,3,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3 and +9.",134.0
+Cat_2,Cat_2_20260112_pm,2026-01-12 19:00:00,pm,164.0,1.75,False,False,2,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3 and +9.",66.0
+Cat_2,Cat_2_20260113_am,2026-01-13 07:00:00,am,281.0,1.75,False,False,3,"AM: LC at +2, +3, +5, +6 and +9. PM: LC at +1, +2, +3 and +6.",68.0
+Cat_2,Cat_2_20260113_pm,2026-01-13 19:00:00,pm,169.0,1.75,False,False,2,"AM: LC at +2, +3, +5, +6 and +9. PM: LC at +1, +2, +3 and +6.",93.0
+Cat_2,Cat_2_20260114_am,2026-01-14 07:00:00,am,186.0,1.75,False,False,2,"AM: LC at +1, +3, +4, +6 and +9. PM: LC at +1, +2, +3 and +6.",151.0
+Cat_2,Cat_2_20260114_pm,2026-01-14 19:00:00,pm,159.0,1.75,False,False,1,"AM: LC at +1, +3, +4, +6 and +9. PM: LC at +1, +2, +3 and +6.",139.0
+Cat_2,Cat_2_20260115_am,2026-01-15 07:00:00,am,192.0,1.75,False,False,3,"AM: LC at +1, +2, +4, +6 and +9. PM: LC at +1. HC at +3 & +3.5. LC at +9.",114.0
+Cat_2,Cat_2_20260115_pm,2026-01-15 19:00:00,pm,131.0,1.75,False,False,3,"AM: LC at +1, +2, +4, +6 and +9. PM: LC at +1. HC at +3 & +3.5. LC at +9.",46.0
+Cat_2,Cat_2_20260116_am,2026-01-16 07:00:00,am,242.0,1.5,False,False,3,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3 and +6.",115.0
+Cat_2,Cat_2_20260116_pm,2026-01-16 19:00:00,pm,158.0,1.5,False,False,1,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3 and +6.",65.0
+Cat_2,Cat_2_20260117_am,2026-01-17 07:00:00,am,185.0,1.5,False,False,3,"AM: LC at +1, +2, +3, +6 and +9. PM: LC at +1, +2, +3 and +6.",83.0
+Cat_2,Cat_2_20260117_pm,2026-01-17 19:00:00,pm,129.0,1.5,False,False,1,"AM: LC at +1, +2, +3, +6 and +9. PM: LC at +1, +2, +3 and +6.",118.0
+Cat_2,Cat_2_20260118_am,2026-01-18 07:00:00,am,186.0,1.5,False,False,2,"AM: LC at +1, +2, +3, +6 and +9. PM: LC at +1, +2 & +3. HC at +4.5. LC at +6.",100.0
+Cat_2,Cat_2_20260118_pm,2026-01-18 19:00:00,pm,148.0,1.5,False,False,3,"AM: LC at +1, +2, +3, +6 and +9. PM: LC at +1, +2 & +3. HC at +4.5. LC at +6.",42.0
+Cat_2,Cat_2_20260119_am,2026-01-19 07:00:00,am,264.0,1.5,False,False,3,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3 and +6.",97.0
+Cat_2,Cat_2_20260119_pm,2026-01-19 19:00:00,pm,168.0,1.5,False,False,1,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3 and +6.",174.0
+Cat_2,Cat_2_20260120_am,2026-01-20 07:00:00,am,123.0,1.5,False,False,3,"AM: SHC at +1. LC at +2, +3, +6 and +9. PM: SHC at +1. MC at +2. HC at +3. LC at +6.",62.0
+Cat_2,Cat_2_20260120_pm,2026-01-20 19:00:00,pm,137.0,1.5,False,False,4,"AM: SHC at +1. LC at +2, +3, +6 and +9. PM: SHC at +1. MC at +2. HC at +3. LC at +6.",44.0
+Cat_2,Cat_2_20260121_am,2026-01-21 07:00:00,am,257.0,1.5,False,False,3,"AM: LC at +2, +4, +5, +7 and +9. PM: LC at +2, +3, +4, +6 and +9.",96.0
+Cat_2,Cat_2_20260121_pm,2026-01-21 19:00:00,pm,195.0,1.5,False,False,2,"AM: LC at +2, +4, +5, +7 and +9. PM: LC at +2, +3, +4, +6 and +9.",56.0
+Cat_2,Cat_2_20260122_am,2026-01-22 07:00:00,am,298.0,1.5,False,False,3,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3, +6 and +9.",124.0
+Cat_2,Cat_2_20260122_pm,2026-01-22 19:00:00,pm,141.0,1.5,False,False,2,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3, +6 and +9.",96.0
+Cat_2,Cat_2_20260123_am,2026-01-23 07:00:00,am,140.0,1.5,False,False,3,"AM: SHC at +1 and +2. LC at +3, +6 and +9. PM: SHC at +1, +2 & +3. LC at +6 & +9.",80.0
+Cat_2,Cat_2_20260123_pm,2026-01-23 19:00:00,pm,107.0,1.5,False,False,2,"AM: SHC at +1 and +2. LC at +3, +6 and +9. PM: SHC at +1, +2 & +3. LC at +6 & +9.",85.0
+Cat_2,Cat_2_20260124_am,2026-01-24 07:00:00,am,122.0,1.5,False,False,3,"AM: SHC at +1. LC at +2, +3, +6 and +8. PM: LC at +1, +2, +5 and +6.",96.0
+Cat_2,Cat_2_20260124_pm,2026-01-24 19:00:00,pm,150.0,1.5,False,False,2,"AM: SHC at +1. LC at +2, +3, +6 and +8. PM: LC at +1, +2, +5 and +6.",91.0
+Cat_2,Cat_2_20260125_am,2026-01-25 07:00:00,am,138.0,1.5,False,False,3,"AM: LC at +1, +2, +3, +4 and +6. PM: LC at +1. MC at +4. LC at +5 and +6.",79.0
+Cat_2,Cat_2_20260125_pm,2026-01-25 19:00:00,pm,168.0,1.5,False,False,2,"AM: LC at +1, +2, +3, +4 and +6. PM: LC at +1. MC at +4. LC at +5 and +6.",52.0
+Cat_2,Cat_2_20260126_am,2026-01-26 07:00:00,am,179.0,1.5,False,False,2,"AM: LC at +1, +3, +4, +6 and +9. PM: SHC at +1. LC at +2, +5 and +6.",153.0
+Cat_2,Cat_2_20260126_pm,2026-01-26 19:00:00,pm,136.0,1.5,False,False,2,"AM: LC at +1, +3, +4, +6 and +9. PM: SHC at +1. LC at +2, +5 and +6.",76.0
+Cat_2,Cat_2_20260127_am,2026-01-27 07:00:00,am,139.0,1.5,False,False,3,"AM: SHC at +1, +3, +4, +6 and +9. PM: LC at +1, +2, +3, +6 and +9.",77.0
+Cat_2,Cat_2_20260127_pm,2026-01-27 19:00:00,pm,179.0,1.5,False,False,1,"AM: SHC at +1, +3, +4, +6 and +9. PM: LC at +1, +2, +3, +6 and +9.",196.0
+Cat_2,Cat_2_20260128_am,2026-01-28 07:00:00,am,129.0,1.5,False,False,3,"AM: SHC at +1. LC at +2, +3, +6 and +9. PM: SHC at +1 & +2. HC at +3 & +3.5. LC at +6.",81.0
+Cat_2,Cat_2_20260128_pm,2026-01-28 19:00:00,pm,124.0,1.5,False,False,4,"AM: SHC at +1. LC at +2, +3, +6 and +9. PM: SHC at +1 & +2. HC at +3 & +3.5. LC at +6.",44.0
+Cat_2,Cat_2_20260129_am,2026-01-29 07:00:00,am,251.0,1.25,False,False,3,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +2, +3, +4, +6 and +9.",92.0
+Cat_2,Cat_2_20260129_pm,2026-01-29 19:00:00,pm,225.0,1.25,False,False,2,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +2, +3, +4, +6 and +9.",106.0
+Cat_2,Cat_2_20260130_am,2026-01-30 07:00:00,am,212.0,1.25,False,False,3,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3 and +6.",107.0
+Cat_2,Cat_2_20260130_pm,2026-01-30 19:00:00,pm,149.0,1.25,False,False,1,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3 and +6.",171.0
+Cat_2,Cat_2_20260131_am,2026-01-31 07:00:00,am,134.0,1.25,False,False,3,"AM: LC at +1, +3, +4, +6 and +9. PM: LC at +1, +2, +4 and +6.",96.0
+Cat_2,Cat_2_20260131_pm,2026-01-31 19:00:00,pm,127.0,1.25,False,False,1,"AM: LC at +1, +3, +4, +6 and +9. PM: LC at +1, +2, +4 and +6.",86.0
+Cat_2,Cat_2_20260201_am,2026-02-01 07:00:00,am,213.0,1.25,False,False,3,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3 and +6.",108.0
+Cat_2,Cat_2_20260201_pm,2026-02-01 19:00:00,pm,164.0,1.25,False,False,2,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3 and +6.",73.0
+Cat_2,Cat_2_20260202_am,2026-02-02 07:00:00,am,184.0,1.25,False,False,3,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3. SHC at +4.",129.0
+Cat_2,Cat_2_20260202_pm,2026-02-02 19:00:00,pm,131.0,1.25,False,False,2,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3. SHC at +4.",52.0
+Cat_2,Cat_2_20260203_am,2026-02-03 07:00:00,am,252.0,1.25,False,False,3,"AM: LC at +2, +4, +6 and +8. PM: LC at +1. SHC at +2. HC at +3 & +3.5. LC at +6.",146.0
+Cat_2,Cat_2_20260203_pm,2026-02-03 19:00:00,pm,156.0,1.25,False,False,4,"AM: LC at +2, +4, +6 and +8. PM: LC at +1. SHC at +2. HC at +3 & +3.5. LC at +6.",42.0
+Cat_2,Cat_2_20260204_am,2026-02-04 07:00:00,am,253.0,1.25,False,False,3,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +2, +3, +4 and +6.",90.0
+Cat_2,Cat_2_20260204_pm,2026-02-04 19:00:00,pm,283.0,1.25,False,False,2,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +2, +3, +4 and +6.",123.0
+Cat_2,Cat_2_20260205_am,2026-02-05 07:00:00,am,262.0,1.25,False,False,3,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3 and +6.",112.0
+Cat_2,Cat_2_20260205_pm,2026-02-05 19:00:00,pm,230.0,1.25,False,False,2,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3 and +6.",128.0
+Cat_2,Cat_2_20260206_am,2026-02-06 07:00:00,am,162.0,1.25,False,False,3,"AM: SHC at +1. LC at +2, +3, +6 and +9. PM: LC at +1, +2, +3 and +6.",86.0
+Cat_2,Cat_2_20260206_pm,2026-02-06 19:00:00,pm,243.0,1.25,False,False,2,"AM: SHC at +1. LC at +2, +3, +6 and +9. PM: LC at +1, +2, +3 and +6.",221.0
+Cat_2,Cat_2_20260207_am,2026-02-07 07:00:00,am,174.0,1.25,False,False,3,"AM: LC at +1. SHC at +2 & +3. LC at +6 & +9. PM: LC at +2, +3, +5 and +6.",67.0
+Cat_2,Cat_2_20260207_pm,2026-02-07 19:00:00,pm,234.0,1.25,False,False,2,"AM: LC at +1. SHC at +2 & +3. LC at +6 & +9. PM: LC at +2, +3, +5 and +6.",120.0
+Cat_2,Cat_2_20260208_am,2026-02-08 07:00:00,am,195.0,1.25,False,False,3,"AM: LC at +1, +2, +3, +7 and +8. PM: LC at +1, +2, +3 and +6.",91.0
+Cat_2,Cat_2_20260208_pm,2026-02-08 19:00:00,pm,175.0,1.25,False,False,2,"AM: LC at +1, +2, +3, +7 and +8. PM: LC at +1, +2, +3 and +6.",126.0
+Cat_2,Cat_2_20260209_am,2026-02-09 07:00:00,am,236.0,1.25,False,False,3,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3, +6 and +9.",162.0
+Cat_2,Cat_2_20260209_pm,2026-02-09 19:00:00,pm,164.0,1.25,False,False,1,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3, +6 and +9.",226.0
+Cat_2,Cat_2_20260210_am,2026-02-10 07:00:00,am,203.0,1.25,False,False,3,"AM: LC at +1, +2, +4, +6 and +9. PM: LC at +1, +2, +3 and +6.",165.0
+Cat_2,Cat_2_20260210_pm,2026-02-10 19:00:00,pm,212.0,1.25,False,False,2,"AM: LC at +1, +2, +4, +6 and +9. PM: LC at +1, +2, +3 and +6.",103.0
+Cat_2,Cat_2_20260211_am,2026-02-11 07:00:00,am,173.0,1.5,False,False,3,"AM: LC at +1, +2, +3, +6 and +9. PM: LC at +1, +2, +5 and +6.",130.0
+Cat_2,Cat_2_20260211_pm,2026-02-11 19:00:00,pm,170.0,1.5,False,False,2,"AM: LC at +1, +2, +3, +6 and +9. PM: LC at +1, +2, +5 and +6.",100.0
+Cat_2,Cat_2_20260212_am,2026-02-12 07:00:00,am,106.0,1.5,False,False,3,"AM: SHC at +1. LC at +2, +3, +4, +6 & +9. PM: LC at +1, +2, +3 and +6.",65.0
+Cat_2,Cat_2_20260212_pm,2026-02-12 19:00:00,pm,219.0,1.5,False,False,2,"AM: SHC at +1. LC at +2, +3, +4, +6 & +9. PM: LC at +1, +2, +3 and +6.",87.0
+Cat_2,Cat_2_20260213_am,2026-02-13 07:00:00,am,200.0,1.5,False,False,3,"AM: LC at +2, +4, +6 and +9. PM: LC at +1, +2, +3, +6 and +9.",96.0
+Cat_2,Cat_2_20260213_pm,2026-02-13 19:00:00,pm,123.0,1.5,False,False,2,"AM: LC at +2, +4, +6 and +9. PM: LC at +1, +2, +3, +6 and +9.",86.0
+Cat_2,Cat_2_20260214_am,2026-02-14 07:00:00,am,188.0,1.5,False,False,3,"AM: LC at +2, +3, +4, +5 and +9. PM: LC at +1, +2, +3, +6 and +9.",63.0
+Cat_2,Cat_2_20260214_pm,2026-02-14 19:00:00,pm,160.0,1.5,False,False,2,"AM: LC at +2, +3, +4, +5 and +9. PM: LC at +1, +2, +3, +6 and +9.",76.0
+Cat_2,Cat_2_20260215_am,2026-02-15 07:00:00,am,199.0,1.5,False,False,3,"AM: SHC at +3. LC at +4, +5, +6 and +9. PM: SHC at +1 & +2. LC at +4 and +6.",75.0
+Cat_2,Cat_2_20260215_pm,2026-02-15 19:00:00,pm,139.0,1.5,False,False,2,"AM: SHC at +3. LC at +4, +5, +6 and +9. PM: SHC at +1 & +2. LC at +4 and +6.",69.0
+Cat_2,Cat_2_20260216_am,2026-02-16 07:00:00,am,216.0,1.5,False,False,3,"AM: LC at +1, +2, +3, +6 and +9. PM: SHC at +1, +2 and +3. LC at +6.",125.0
+Cat_2,Cat_2_20260216_pm,2026-02-16 19:00:00,pm,132.0,1.5,False,False,2,"AM: LC at +1, +2, +3, +6 and +9. PM: SHC at +1, +2 and +3. LC at +6.",67.0
+Cat_2,Cat_2_20260217_am,2026-02-17 07:00:00,am,174.0,1.5,False,False,3,"AM: LC at +1, +2.5, +3.5, +6 & +9. PM: SHC at +1 & +2. LC at +3 and +6.",98.0
+Cat_2,Cat_2_20260217_pm,2026-02-17 19:00:00,pm,112.0,1.5,False,False,0,"AM: LC at +1, +2.5, +3.5, +6 & +9. PM: SHC at +1 & +2. LC at +3 and +6.",
+Cat_2,Cat_2_20260218_am,2026-02-18 07:00:00,am,164.0,1.5,False,False,3,"AM: LC at +2, +3, +4, +6 and +9. PM: SHC at +1 and +2. LC at +3 and +6.",63.0
+Cat_2,Cat_2_20260218_pm,2026-02-18 19:00:00,pm,120.0,1.5,False,False,2,"AM: LC at +2, +3, +4, +6 and +9. PM: SHC at +1 and +2. LC at +3 and +6.",83.0
+Cat_2,Cat_2_20260219_am,2026-02-19 07:00:00,am,107.0,1.5,False,False,4,"AM: SHC at +1, +2 and +3. LC at +6 and +9. PM: LC at +1, +2, +3 and +6.",60.0
+Cat_2,Cat_2_20260219_pm,2026-02-19 19:00:00,pm,175.0,1.5,False,False,2,"AM: SHC at +1, +2 and +3. LC at +6 and +9. PM: LC at +1, +2, +3 and +6.",103.0
+Cat_2,Cat_2_20260220_am,2026-02-20 07:00:00,am,151.0,1.5,False,False,3,"AM: LC at +1 & +2. SHC at +3. LC at +6 and +9. PM: LC at +1, +2, +3 and +6.",65.0
+Cat_2,Cat_2_20260220_pm,2026-02-20 19:00:00,pm,150.0,1.5,False,False,2,"AM: LC at +1 & +2. SHC at +3. LC at +6 and +9. PM: LC at +1, +2, +3 and +6.",100.0
+Cat_2,Cat_2_20260221_am,2026-02-21 07:00:00,am,118.0,1.5,False,False,3,"AM: SHC at +1 & +2. LC at +3, +6 and +8. PM: SHC at +1, +2 & +4. LC at +6 & +9.",89.0
+Cat_2,Cat_2_20260221_pm,2026-02-21 19:00:00,pm,116.0,1.5,False,False,1,"AM: SHC at +1 & +2. LC at +3, +6 and +8. PM: SHC at +1, +2 & +4. LC at +6 & +9.",82.0
+Cat_2,Cat_2_20260222_am,2026-02-22 07:00:00,am,249.0,1.5,False,False,3,"AM: LC at +2, +3, +4, +6 and +8. PM: SHC at +1. LC at +2, +4 and +6.",116.0
+Cat_2,Cat_2_20260222_pm,2026-02-22 19:00:00,pm,130.0,1.5,False,False,2,"AM: LC at +2, +3, +4, +6 and +8. PM: SHC at +1. LC at +2, +4 and +6.",122.0
+Cat_2,Cat_2_20260223_am,2026-02-23 07:00:00,am,173.0,1.5,False,False,4,"AM: LC at +1, +2 & +3. HC at +4.5 & +5. LC at +8. PM: LC at +2, +3, +4 and +6.",49.0
+Cat_2,Cat_2_20260223_pm,2026-02-23 19:00:00,pm,315.0,1.5,False,False,2,"AM: LC at +1, +2 & +3. HC at +4.5 & +5. LC at +8. PM: LC at +2, +3, +4 and +6.",102.0
+Cat_2,Cat_2_20260224_am,2026-02-24 07:00:00,am,280.0,1.5,False,False,3,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3 and +6.",164.0
+Cat_2,Cat_2_20260224_pm,2026-02-24 19:00:00,pm,255.0,1.5,False,False,2,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3 and +6.",94.0
+Cat_2,Cat_2_20260225_am,2026-02-25 07:00:00,am,307.0,1.5,False,False,3,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at 1, +2, +3 and +6.",196.0
+Cat_2,Cat_2_20260225_pm,2026-02-25 19:00:00,pm,186.0,1.5,False,False,2,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at 1, +2, +3 and +6.",109.0
+Cat_2,Cat_2_20260226_am,2026-02-26 07:00:00,am,214.0,1.5,False,False,3,"AM: LC at +1, +2, +3, +6 and +9. PM: SHC at +2 & +3. LC at +4, +6 & +9.",214.0
+Cat_2,Cat_2_20260226_pm,2026-02-26 19:00:00,pm,213.0,1.75,False,False,1,"AM: LC at +1, +2, +3, +6 and +9. PM: SHC at +2 & +3. LC at +4, +6 & +9.",133.0
+Cat_2,Cat_2_20260227_am,2026-02-27 07:00:00,am,210.0,1.75,False,False,3,"AM: LC at +2.5, +3.5, +5, +6 and +9. PM: SHC at +1 & +2. LC at +3 and +6.",124.0
+Cat_2,Cat_2_20260227_pm,2026-02-27 19:00:00,pm,136.0,1.75,False,False,1,"AM: LC at +2.5, +3.5, +5, +6 and +9. PM: SHC at +1 & +2. LC at +3 and +6.",107.0
+Cat_2,Cat_2_20260228_am,2026-02-28 07:00:00,am,130.0,1.75,False,False,4,AM: SHC at +1. LC at +2. MC at +4. LC at +6 & +9. PM: SHC at +1 & +2. LC at +3 & +6.,57.0
+Cat_2,Cat_2_20260228_pm,2026-02-28 19:00:00,pm,133.0,1.75,False,False,2,AM: SHC at +1. LC at +2. MC at +4. LC at +6 & +9. PM: SHC at +1 & +2. LC at +3 & +6.,63.0
+Cat_2,Cat_2_20260301_am,2026-03-01 07:00:00,am,186.0,1.75,False,False,3,"AM: LC at +2, +3, +4, +6 and +9. PM: SHC at +1, +2 and +3. LC at +6.",99.0
+Cat_2,Cat_2_20260301_pm,2026-03-01 19:00:00,pm,131.0,1.75,False,False,3,"AM: LC at +2, +3, +4, +6 and +9. PM: SHC at +1, +2 and +3. LC at +6.",51.0
+Cat_2,Cat_2_20260302_am,2026-03-02 07:00:00,am,196.0,1.75,False,False,4,AM: LC at +2 & +3. MC at +4. LC at +6 & +9. PM: SHC at +1. HC at +4 & +4.5. LC at +6.,52.0
+Cat_2,Cat_2_20260302_pm,2026-03-02 19:00:00,pm,165.0,1.75,False,False,3,AM: LC at +2 & +3. MC at +4. LC at +6 & +9. PM: SHC at +1. HC at +4 & +4.5. LC at +6.,44.0
+Cat_2,Cat_2_20260303_am,2026-03-03 07:00:00,am,219.0,1.75,False,False,3,"AM: LC at +1, +2, +3, +6 and +9. PM: SHC at +1, +2, +3 & +4. LC at +6 & +9.",69.0
+Cat_2,Cat_2_20260303_pm,2026-03-03 19:00:00,pm,103.0,1.75,False,False,2,"AM: LC at +1, +2, +3, +6 and +9. PM: SHC at +1, +2, +3 & +4. LC at +6 & +9.",56.0
+Cat_2,Cat_2_20260304_am,2026-03-04 07:00:00,am,180.0,1.75,False,False,2,"AM: LC at +1, +2, +3, +6 and +9. PM: SHC at +1, +2 & +3. LC at +6 & +9.",106.0
+Cat_2,Cat_2_20260304_pm,2026-03-04 19:00:00,pm,132.0,1.75,False,False,3,"AM: LC at +1, +2, +3, +6 and +9. PM: SHC at +1, +2 & +3. LC at +6 & +9.",54.0
+Cat_2,Cat_2_20260305_am,2026-03-05 07:00:00,am,131.0,1.75,False,False,2,"AM: SHC at +1 & +2. LC at +3, +6 & +9. PM: SHC at +1, +2 & +3. LC at +6 & +9.",112.0
+Cat_2,Cat_2_20260305_pm,2026-03-05 19:00:00,pm,84.0,1.75,False,False,3,"AM: SHC at +1 & +2. LC at +3, +6 & +9. PM: SHC at +1, +2 & +3. LC at +6 & +9.",62.0
+Cat_2,Cat_2_20260306_am,2026-03-06 07:00:00,am,207.0,1.75,False,False,2,"AM: LC at +1, +2, +3, +4, +6 and +9. PM: LC at +2, +3, +4, +6 and +9.",68.0
+Cat_2,Cat_2_20260306_pm,2026-03-06 19:00:00,pm,181.0,1.75,False,False,1,"AM: LC at +1, +2, +3, +4, +6 and +9. PM: LC at +2, +3, +4, +6 and +9.",125.0
+Cat_2,Cat_2_20260307_am,2026-03-07 07:00:00,am,196.0,1.75,False,False,3,"AM: LC at +1, +2, +3, +6 and +9. PM: SHC at +1, +2, +3 and +6.",63.0
+Cat_2,Cat_2_20260307_pm,2026-03-07 19:00:00,pm,129.0,1.75,False,False,1,"AM: LC at +1, +2, +3, +6 and +9. PM: SHC at +1, +2, +3 and +6.",120.0
+Cat_2,Cat_2_20260308_am,2026-03-08 07:00:00,am,106.0,1.75,False,False,3,"AM: SHC at +1. LC at +2, +3, +6 and +8. PM: SHC at +1, +2 & +3. LC at +6.",115.0
+Cat_2,Cat_2_20260308_pm,2026-03-08 19:00:00,pm,121.0,1.75,False,False,3,"AM: SHC at +1. LC at +2, +3, +6 and +8. PM: SHC at +1, +2 & +3. LC at +6.",54.0
+Cat_2,Cat_2_20260309_am,2026-03-09 07:00:00,am,191.0,1.75,False,False,3,"AM: LC at +2, +3, +4, +7 and +9. PM: SHC at +1 & +2. LC at +5, +6.",87.0
+Cat_2,Cat_2_20260309_pm,2026-03-09 19:00:00,pm,103.0,1.75,False,False,2,"AM: LC at +2, +3, +4, +7 and +9. PM: SHC at +1 & +2. LC at +5, +6.",82.0
+Cat_2,Cat_2_20260310_am,2026-03-10 07:00:00,am,174.0,1.75,False,False,3,"AM: LC at +2, +3, +4, +6 and +9. PM: SHC at +1, +2 & +3. LC at +6 & +9.",63.0
+Cat_2,Cat_2_20260310_pm,2026-03-10 19:00:00,pm,116.0,1.75,False,False,1,"AM: LC at +2, +3, +4, +6 and +9. PM: SHC at +1, +2 & +3. LC at +6 & +9.",75.0
+Cat_2,Cat_2_20260311_am,2026-03-11 07:00:00,am,184.0,1.75,False,False,3,"AM: LC at +1. SHC at +2 & +3. LC at +4 & +7. PM: SHC at +1 & +2. LC at +3, +6 & +9.",61.0
+Cat_2,Cat_2_20260311_pm,2026-03-11 19:00:00,pm,149.0,1.75,False,False,2,"AM: LC at +1. SHC at +2 & +3. LC at +4 & +7. PM: SHC at +1 & +2. LC at +3, +6 & +9.",83.0
+Cat_2,Cat_2_20260312_am,2026-03-12 07:00:00,am,124.0,1.75,False,False,2,"AM: SHC at +1, +2 & +3. LC at +6 & +9. PM: SHC at +1 & +3. LC at +5, +6 & +9.",87.0
+Cat_2,Cat_2_20260312_pm,2026-03-12 19:00:00,pm,134.0,1.75,False,False,2,"AM: SHC at +1, +2 & +3. LC at +6 & +9. PM: SHC at +1 & +3. LC at +5, +6 & +9.",101.0
+Cat_2,Cat_2_20260313_am,2026-03-13 07:00:00,am,177.0,1.75,False,False,2,"AM: LC at +2, +3, +4 and +6. PM: LC at +2, +3, +6 and +9.",150.0
+Cat_2,Cat_2_20260313_pm,2026-03-13 19:00:00,pm,189.0,1.75,False,False,1,"AM: LC at +2, +3, +4 and +6. PM: LC at +2, +3, +6 and +9.",217.0
+Cat_2,Cat_2_20260314_am,2026-03-14 07:00:00,am,103.0,1.75,False,False,3,"AM: SHC at +1 and +2. LC at +4, +6 & +9. PM: SHC at +1, +2 and +3. LC at +6.",66.0
+Cat_2,Cat_2_20260314_pm,2026-03-14 19:00:00,pm,108.0,1.75,False,False,2,"AM: SHC at +1 and +2. LC at +4, +6 & +9. PM: SHC at +1, +2 and +3. LC at +6.",77.0
+Cat_2,Cat_2_20260315_am,2026-03-15 07:00:00,am,151.0,1.75,False,False,3,"AM: LC at +1, +2, +3 and +6. PM: SHC at +1, +2 and +3. LC at +6.",98.0
+Cat_2,Cat_2_20260315_pm,2026-03-15 19:00:00,pm,142.0,1.75,False,False,2,"AM: LC at +1, +2, +3 and +6. PM: SHC at +1, +2 and +3. LC at +6.",67.0
+Cat_2,Cat_2_20260316_am,2026-03-16 07:00:00,am,216.0,1.75,False,False,4,"AM: SHC at +3. HC at +4 & +4.5. LC at +6 & +9. PM: LC at +2, +3, +4, +6 & +9.",47.0
+Cat_2,Cat_2_20260316_pm,2026-03-16 19:00:00,pm,308.0,1.75,False,False,2,"AM: SHC at +3. HC at +4 & +4.5. LC at +6 & +9. PM: LC at +2, +3, +4, +6 & +9.",163.0
+Cat_2,Cat_2_20260317_am,2026-03-17 07:00:00,am,140.0,1.75,False,False,2,"AM: SHC at +1. LC at +2, +3, +6 and +9. PM: LC at +1, +2, +4 and +7.",116.0
+Cat_2,Cat_2_20260317_pm,2026-03-17 19:00:00,pm,151.0,1.75,False,False,2,"AM: SHC at +1. LC at +2, +3, +6 and +9. PM: LC at +1, +2, +4 and +7.",90.0
+Cat_2,Cat_2_20260318_am,2026-03-18 07:00:00,am,145.0,1.75,False,False,2,"AM: SHC at +1, +3 and +4. LC at +6. PM: SHC at +1, +2 and +3. LC at +9.",58.0
+Cat_2,Cat_2_20260318_pm,2026-03-18 19:00:00,pm,140.0,1.75,False,False,2,"AM: SHC at +1, +3 and +4. LC at +6. PM: SHC at +1, +2 and +3. LC at +9.",82.0
+Cat_2,Cat_2_20260319_am,2026-03-19 07:00:00,am,194.0,1.75,False,False,3,"AM: SHC at +2, +3 & +4. LC at +6 & +9. PM: LC at +1, +3, +4 and +6.",64.0
+Cat_2,Cat_2_20260319_pm,2026-03-19 19:00:00,pm,178.0,1.75,False,False,2,"AM: SHC at +2, +3 & +4. LC at +6 & +9. PM: LC at +1, +3, +4 and +6.",96.0
+Cat_2,Cat_2_20260320_am,2026-03-20 07:00:00,am,123.0,1.75,False,False,2,"AM: SHC at +1 and +2. LC at +4 and +6. PM: SHC at +1. LC at +2, +5 and +8.",87.0
+Cat_2,Cat_2_20260320_pm,2026-03-20 19:00:00,pm,135.0,1.75,False,False,2,"AM: SHC at +1 and +2. LC at +4 and +6. PM: SHC at +1. LC at +2, +5 and +8.",78.0
+Cat_2,Cat_2_20260321_am,2026-03-21 07:00:00,am,167.0,1.75,False,False,2,AM: SHC at +1 and +2. LC at +4 and +8. PM: SHC at +1 and +2. LC at +4.,77.0
+Cat_2,Cat_2_20260321_pm,2026-03-21 19:00:00,pm,128.0,1.75,False,False,2,AM: SHC at +1 and +2. LC at +4 and +8. PM: SHC at +1 and +2. LC at +4.,96.0
+Cat_2,Cat_2_20260322_am,2026-03-22 07:00:00,am,103.0,1.75,False,False,2,AM: SHC at +1 and +3. LC at +4 and +7. PM: SHC at +1 and +2. LC at +4 and +8.,86.0
+Cat_2,Cat_2_20260322_pm,2026-03-22 19:00:00,pm,135.0,1.75,False,False,2,AM: SHC at +1 and +3. LC at +4 and +7. PM: SHC at +1 and +2. LC at +4 and +8.,67.0
+Cat_2,Cat_2_20260323_am,2026-03-23 07:00:00,am,107.0,1.75,False,False,2,AM: SHC at +1 and +2. LC at +4 and +7. PM: SHC at +1 and +2. LC at +4 and +8.,94.0
+Cat_2,Cat_2_20260323_pm,2026-03-23 19:00:00,pm,103.0,1.75,False,False,2,AM: SHC at +1 and +2. LC at +4 and +7. PM: SHC at +1 and +2. LC at +4 and +8.,69.0
+Cat_2,Cat_2_20260324_am,2026-03-24 07:00:00,am,119.0,1.75,False,False,2,"AM: SHC at +1. LC at +2, +4 and +7. PM: SHC at +1. HC at +3, +3.5 & +4. LC at +8.",99.0
+Cat_2,Cat_2_20260324_pm,2026-03-24 19:00:00,pm,123.0,1.75,False,False,4,"AM: SHC at +1. LC at +2, +4 and +7. PM: SHC at +1. HC at +3, +3.5 & +4. LC at +8.",42.0
+Cat_2,Cat_2_20260325_am,2026-03-25 07:00:00,am,197.0,1.5,False,False,2,"AM: LC at +1+2 and +4. PM: LC at +2, +4, +5 and +8.",102.0
+Cat_2,Cat_2_20260325_pm,2026-03-25 19:00:00,pm,157.0,1.5,False,False,2,"AM: LC at +1+2 and +4. PM: LC at +2, +4, +5 and +8.",86.0
+Cat_2,Cat_2_20260326_am,2026-03-26 07:00:00,am,100.0,1.5,False,False,2,"AM: SHC at +1. LC +2, +4 and +7. PM: SHC at +1. LC at +2 and 5.",86.0
+Cat_2,Cat_2_20260326_pm,2026-03-26 19:00:00,pm,112.0,1.5,False,False,2,"AM: SHC at +1. LC +2, +4 and +7. PM: SHC at +1. LC at +2 and 5.",89.0
+Cat_2,Cat_2_20260327_am,2026-03-27 07:00:00,am,102.0,1.5,False,False,2,"AM: SHC at +1. LC at +2, +4 and +8.5. PM: SHC at +1, +2 & +3. LC at +4 & +8.",88.0
+Cat_2,Cat_2_20260327_pm,2026-03-27 19:00:00,pm,105.0,1.5,False,False,3,"AM: SHC at +1. LC at +2, +4 and +8.5. PM: SHC at +1, +2 & +3. LC at +4 & +8.",53.0
+Cat_2,Cat_2_20260328_am,2026-03-28 07:00:00,am,249.0,1.5,False,False,3,"AM: LC at +2, +4, +6 and +8. PM: LC at +1, +2, +4 and +8.",136.0
+Cat_2,Cat_2_20260328_pm,2026-03-28 19:00:00,pm,181.0,1.5,False,False,2,"AM: LC at +2, +4, +6 and +8. PM: LC at +1, +2, +4 and +8.",113.0
+Cat_2,Cat_2_20260329_am,2026-03-29 07:00:00,am,112.0,1.5,False,False,2,"PM: SHC at +1. LC at +2, +4, +6 and +9. PM: LC at +1, +2 and +5.",113.0
+Cat_2,Cat_2_20260329_pm,2026-03-29 19:00:00,pm,185.0,1.5,False,False,2,"PM: SHC at +1. LC at +2, +4, +6 and +9. PM: LC at +1, +2 and +5.",58.0
+Cat_2,Cat_2_20260330_am,2026-03-30 07:00:00,am,175.0,1.5,False,False,2,"AM: LC at +1, +2, +4 and +8. PM: SHC at +1, +2 & +3. LC at +8.",106.0
+Cat_2,Cat_2_20260330_pm,2026-03-30 19:00:00,pm,123.0,1.5,False,False,2,"AM: LC at +1, +2, +4 and +8. PM: SHC at +1, +2 & +3. LC at +8.",67.0
+Cat_2,Cat_2_20260331_am,2026-03-31 07:00:00,am,120.0,1.5,False,False,2,AM: SHC at +1 and +2. LC at +4 and +8. PM: SHC at +1. LC at +2 and +4.,76.0
+Cat_2,Cat_2_20260331_pm,2026-03-31 19:00:00,pm,146.0,1.5,False,False,2,AM: SHC at +1 and +2. LC at +4 and +8. PM: SHC at +1. LC at +2 and +4.,73.0
+Cat_2,Cat_2_20260401_am,2026-04-01 07:00:00,am,236.0,1.5,False,False,2,"AM: LC at +2, +3, +4 and +8. PM: SHC at +1, +2 and +3.",113.0
+Cat_2,Cat_2_20260401_pm,2026-04-01 19:00:00,pm,99.0,1.5,False,False,2,"AM: LC at +2, +3, +4 and +8. PM: SHC at +1, +2 and +3.",70.0
+Cat_2,Cat_2_20260402_am,2026-04-02 07:00:00,am,134.0,1.5,False,False,2,"AM: SHC at +1. LC at +3, +4 and +8. PM: SHC at +1 and +2. LC at +4 and +8.",104.0
+Cat_2,Cat_2_20260402_pm,2026-04-02 19:00:00,pm,120.0,1.5,False,False,1,"AM: SHC at +1. LC at +3, +4 and +8. PM: SHC at +1 and +2. LC at +4 and +8.",93.0
+Cat_2,Cat_2_20260403_am,2026-04-03 07:00:00,am,171.0,1.5,False,False,2,"AM: LC at +1, +3, +4 and +8. PM: SHC at +1 and +4. LC at +8.",79.0
+Cat_2,Cat_2_20260403_pm,2026-04-03 19:00:00,pm,101.0,1.5,False,False,1,"AM: LC at +1, +3, +4 and +8. PM: SHC at +1 and +4. LC at +8.",52.0
+Cat_2,Cat_2_20260404_am,2026-04-04 07:00:00,am,195.0,1.5,False,False,3,"AM: SHC at +2, +3 and +4. LC at +8. PM: LC at +2, +3 and +4.",57.0
+Cat_2,Cat_2_20260404_pm,2026-04-04 19:00:00,pm,198.0,1.5,False,False,2,"AM: SHC at +2, +3 and +4. LC at +8. PM: LC at +2, +3 and +4.",112.0
+Cat_2,Cat_2_20260405_am,2026-04-05 07:00:00,am,121.0,1.5,False,False,2,"AM: SHC at +1, +2 and +4. LC at +9. PM: SHC at +1 and +2. LC at +4.",76.0
+Cat_2,Cat_2_20260405_pm,2026-04-05 19:00:00,pm,128.0,1.5,False,False,2,"AM: SHC at +1, +2 and +4. LC at +9. PM: SHC at +1 and +2. LC at +4.",106.0
+Cat_2,Cat_2_20260406_am,2026-04-06 07:00:00,am,102.0,1.5,False,False,2,"AM: SHC at +1, +2 and +3. LC at +8. PM: SHC at +1 and +2. LC at +4.",79.0
+Cat_2,Cat_2_20260406_pm,2026-04-06 19:00:00,pm,96.0,1.5,False,False,1,"AM: SHC at +1, +2 and +3. LC at +8. PM: SHC at +1 and +2. LC at +4.",72.0
+Cat_2,Cat_2_20260407_am,2026-04-07 07:00:00,am,130.0,1.5,False,False,2,"AM: SHC at +1, +3 and +4. LC at +8. PM: SHC at +2, +3 and +5.",63.0
+Cat_2,Cat_2_20260407_pm,2026-04-07 19:00:00,pm,166.0,1.5,False,False,2,"AM: SHC at +1, +3 and +4. LC at +8. PM: SHC at +2, +3 and +5.",64.0
+Cat_2,Cat_2_20260408_am,2026-04-08 07:00:00,am,229.0,1.5,False,False,2,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3 and +8.",68.0
+Cat_2,Cat_2_20260408_pm,2026-04-08 19:00:00,pm,228.0,1.5,False,False,2,"AM: LC at +2, +3, +4, +6 and +9. PM: LC at +1, +2, +3 and +8.",120.0
+Cat_2,Cat_2_20260409_am,2026-04-09 07:00:00,am,140.0,1.5,False,False,2,"AM: LC at +3, +4, +6 and +9. PM: SHC at +2 and +3. LC at +4.",81.0
+Cat_2,Cat_2_20260409_pm,2026-04-09 19:00:00,pm,127.0,1.5,False,False,2,"AM: LC at +3, +4, +6 and +9. PM: SHC at +2 and +3. LC at +4.",89.0
+Cat_2,Cat_2_20260410_am,2026-04-10 07:00:00,am,134.0,1.5,False,False,3,"AM: SHC at +3 and +4. LC at +6 and +9. PM: LC at +1, +2.5, +3.5 and +9.",59.0
+Cat_2,Cat_2_20260410_pm,2026-04-10 19:00:00,pm,196.0,1.5,False,False,1,"AM: SHC at +3 and +4. LC at +6 and +9. PM: LC at +1, +2.5, +3.5 and +9.",166.0
+Cat_2,Cat_2_20260411_am,2026-04-11 07:00:00,am,92.0,1.5,False,False,2,"AM: SHC at +1. LC at +2, +3, +6 and +9. PM: LC at +2, +3 and +4.",90.0
+Cat_2,Cat_2_20260411_pm,2026-04-11 19:00:00,pm,166.0,1.5,False,False,1,"AM: SHC at +1. LC at +2, +3, +6 and +9. PM: LC at +2, +3 and +4.",127.0
+Cat_2,Cat_2_20260412_am,2026-04-12 07:00:00,am,121.0,1.5,False,False,2,"AM: SHC at +1 and +4. LC at +6 and +9. PM: SHC at +1. LC at +2, +3 and +4.",63.0
+Cat_2,Cat_2_20260412_pm,2026-04-12 19:00:00,pm,119.0,1.5,False,False,2,"AM: SHC at +1 and +4. LC at +6 and +9. PM: SHC at +1. LC at +2, +3 and +4.",127.0
+Cat_2,Cat_2_20260413_am,2026-04-13 07:00:00,am,119.0,1.5,False,False,2,"AM: SHC at +1, +2 and +4. LC at +8. PM: SHC at +2 and +4. LC at +7.5.",61.0
+Cat_2,Cat_2_20260413_pm,2026-04-13 19:00:00,pm,192.0,1.5,False,False,2,"AM: SHC at +1, +2 and +4. LC at +8. PM: SHC at +2 and +4. LC at +7.5.",77.0
+Cat_2,Cat_2_20260414_am,2026-04-14 07:00:00,am,139.0,1.5,False,False,2,"AM: SHC at +3. LC at +4, +6 and +9. PM: SHC at +1. LC at +2, +3 and +8.",82.0
+Cat_2,Cat_2_20260414_pm,2026-04-14 19:00:00,pm,83.0,1.5,False,False,1,"AM: SHC at +3. LC at +4, +6 and +9. PM: SHC at +1. LC at +2, +3 and +8.",92.0
+Cat_2,Cat_2_20260415_am,2026-04-15 07:00:00,am,115.0,1.5,False,False,2,AM: SHC at +1 and +3. LC at +5 and +9. PM: SHC at +1 and +2. LC at +4 and +8.,88.0
+Cat_2,Cat_2_20260415_pm,2026-04-15 19:00:00,pm,115.0,1.5,False,False,2,AM: SHC at +1 and +3. LC at +5 and +9. PM: SHC at +1 and +2. LC at +4 and +8.,88.0
+Cat_2,Cat_2_20260416_am,2026-04-16 07:00:00,am,120.0,1.5,False,False,2,"AM: SHC at +1, +3 and +4. LC at +8. PM: SHC at +1 and +2. LC at +3 and +8.",69.0
+Cat_2,Cat_2_20260416_pm,2026-04-16 19:00:00,pm,121.0,1.5,False,False,1,"AM: SHC at +1, +3 and +4. LC at +8. PM: SHC at +1 and +2. LC at +3 and +8.",105.0
+Cat_2,Cat_2_20260417_am,2026-04-17 07:00:00,am,154.0,1.5,False,False,2,"AM: SHC at +3 and +4. LC at +6 and +9. PM: SHC at +1, +2 and +3. LC at +6.",60.0
+Cat_2,Cat_2_20260417_pm,2026-04-17 19:00:00,pm,153.0,1.5,False,False,1,"AM: SHC at +3 and +4. LC at +6 and +9. PM: SHC at +1, +2 and +3. LC at +6.",133.0
+Cat_2,Cat_2_20260418_am,2026-04-18 07:00:00,am,140.0,1.5,False,False,2,"AM: SHC at +1. LC at +3, +4 and +8. PM: SHC at +2 and +3. LC +4 and +8.",125.0
+Cat_2,Cat_2_20260418_pm,2026-04-18 19:00:00,pm,124.0,1.5,False,False,1,"AM: SHC at +1. LC at +3, +4 and +8. PM: SHC at +2 and +3. LC +4 and +8.",99.0
+Cat_2,Cat_2_20260419_am,2026-04-19 07:00:00,am,151.0,1.5,False,False,3,"AM: LC at +1, +2, +3, +4 and +7. PM: SHC at +1. LC at +2, +3 and +8.",69.0
+Cat_2,Cat_2_20260419_pm,2026-04-19 19:00:00,pm,121.0,1.5,False,False,2,"AM: LC at +1, +2, +3, +4 and +7. PM: SHC at +1. LC at +2, +3 and +8.",97.0
+Cat_2,Cat_2_20260420_am,2026-04-20 07:00:00,am,134.0,1.5,False,False,3,"AM: SHC at +1, +2 and +3. MC at +4. LC at +8. PM: LC at +2, +3, +4 and +8.",51.0
+Cat_2,Cat_2_20260420_pm,2026-04-20 19:00:00,pm,276.0,1.5,False,False,2,"AM: SHC at +1, +2 and +3. MC at +4. LC at +8. PM: LC at +2, +3, +4 and +8.",106.0
+Cat_2,Cat_2_20260421_am,2026-04-21 07:00:00,am,144.0,1.5,False,False,2,"AM: SHC at +1. LC at +2, +4 and +8. PM: SHC at +1. LC at +2, +4 and +8.",99.0
+Cat_2,Cat_2_20260421_pm,2026-04-21 19:00:00,pm,116.0,1.5,False,False,2,"AM: SHC at +1. LC at +2, +4 and +8. PM: SHC at +1. LC at +2, +4 and +8.",101.0
+Cat_2,Cat_2_20260422_am,2026-04-22 07:00:00,am,111.0,1.5,False,False,3,"AM: SHC at +1, +3 and +4. LC at +8. PM: SHC at +2. LC at +4 and +6.",58.0
+Cat_2,Cat_2_20260422_pm,2026-04-22 19:00:00,pm,122.0,1.5,False,False,1,"AM: SHC at +1, +3 and +4. LC at +8. PM: SHC at +2. LC at +4 and +6.",73.0
+Cat_2,Cat_2_20260423_am,2026-04-23 07:00:00,am,143.0,1.5,False,False,2,"AM: LC at +1, +3, +4 and +8. PM: SHC at +1 and +3. LC at +5.",88.0
+Cat_2,Cat_2_20260423_pm,2026-04-23 19:00:00,pm,124.0,1.5,False,False,2,"AM: LC at +1, +3, +4 and +8. PM: SHC at +1 and +3. LC at +5.",96.0
+Cat_2,Cat_2_20260424_am,2026-04-24 07:00:00,am,141.0,1.5,False,False,3,"AM: HC at +2 & +2.5. LC at +6 and +8. PM: LC at +1, +2, +3 and +9.",38.0
+Cat_2,Cat_2_20260424_pm,2026-04-24 19:00:00,pm,240.0,1.25,False,False,2,"AM: HC at +2 & +2.5. LC at +6 and +8. PM: LC at +1, +2, +3 and +9.",77.0
+Cat_2,Cat_2_20260425_am,2026-04-25 07:00:00,am,194.0,1.25,False,False,2,"AM: LC at +2, +3, +5 and +8. PM: SHC at +1 and +3. LC at +5 and +9.",74.0
+Cat_2,Cat_2_20260425_pm,2026-04-25 19:00:00,pm,117.0,1.25,False,False,2,"AM: LC at +2, +3, +5 and +8. PM: SHC at +1 and +3. LC at +5 and +9.",87.0
+Cat_2,Cat_2_20260426_am,2026-04-26 07:00:00,am,118.0,1.25,False,False,3,AM: SHC at +1 & +2. HC at +3 & +4. LC at +9. PM: LC at +2 & +3. HC at +4.,45.0
+Cat_2,Cat_2_20260426_pm,2026-04-26 19:00:00,pm,200.0,1.25,False,False,3,AM: SHC at +1 & +2. HC at +3 & +4. LC at +9. PM: LC at +2 & +3. HC at +4.,47.0
+Cat_2,Cat_2_20260427_am,2026-04-27 07:00:00,am,163.0,1.25,False,False,2,"AM: SHC at +1 and +3. LC at +5 and +9. PM: SHC at +1. LC at +2, +3 and +8.",75.0
+Cat_2,Cat_2_20260427_pm,2026-04-27 19:00:00,pm,116.0,1.25,False,False,1,"AM: SHC at +1 and +3. LC at +5 and +9. PM: SHC at +1. LC at +2, +3 and +8.",118.0
+Cat_2,Cat_2_20260428_am,2026-04-28 07:00:00,am,124.0,1.25,False,False,2,"AM: LC at +3, +5, +6 and +9. PM: SHC at +1, +2 and +3.",88.0
+Cat_2,Cat_2_20260428_pm,2026-04-28 19:00:00,pm,100.0,1.25,False,False,2,"AM: LC at +3, +5, +6 and +9. PM: SHC at +1, +2 and +3.",67.0
+Cat_2,Cat_2_20260429_am,2026-04-29 07:00:00,am,113.0,1.25,False,False,2,"AM: SHC at +1 and +2. LC at +4 and +8. PM: LC at +2, +3, +4 and +9.",70.0
+Cat_2,Cat_2_20260429_pm,2026-04-29 19:00:00,pm,85.0,1.25,False,False,1,"AM: SHC at +1 and +2. LC at +4 and +8. PM: LC at +2, +3, +4 and +9.",91.0
+Cat_2,Cat_2_20260430_am,2026-04-30 07:00:00,am,126.0,1.25,False,False,2,AM: SHC at +1 and +2. LC at +5 and +8. PM: SHC at +2 and +3. LC at +8.,98.0
+Cat_2,Cat_2_20260430_pm,2026-04-30 19:00:00,pm,108.0,1.25,False,False,1,AM: SHC at +1 and +2. LC at +5 and +8. PM: SHC at +2 and +3. LC at +8.,74.0
+Cat_2,Cat_2_20260501_am,2026-05-01 07:00:00,am,169.0,1.25,False,False,2,"AM: LC at +1, +2, +3, +5 and +9. PM: LC at +2, +3, +5 and +8.",74.0
+Cat_2,Cat_2_20260501_pm,2026-05-01 19:00:00,pm,146.0,1.25,False,False,2,"AM: LC at +1, +2, +3, +5 and +9. PM: LC at +2, +3, +5 and +8.",74.0
+Cat_2,Cat_2_20260502_am,2026-05-02 07:00:00,am,214.0,1.25,False,False,2,"AM: LC at +1, +2, +5 and +8. PM: LC at +2, +3, +4 and +9.",103.0
+Cat_2,Cat_2_20260502_pm,2026-05-02 19:00:00,pm,158.0,1.25,False,False,1,"AM: LC at +1, +2, +5 and +8. PM: LC at +2, +3, +4 and +9.",157.0
+Cat_2,Cat_2_20260503_am,2026-05-03 07:00:00,am,137.0,1.25,False,False,2,"AM: LC at +3, +4, +6 and +9. PM: LC at +2, +3, +5 and +9.",113.0
+Cat_2,Cat_2_20260503_pm,2026-05-03 19:00:00,pm,164.0,1.25,False,False,2,"AM: LC at +3, +4, +6 and +9. PM: LC at +2, +3, +5 and +9.",106.0
+Cat_2,Cat_2_20260504_am,2026-05-04 07:00:00,am,117.0,1.25,False,False,2,"AM: LC at +1. SHC at +3. LC at +5 and +9. PM: LC at +2, +3, +4 and +9.",69.0
+Cat_2,Cat_2_20260504_pm,2026-05-04 19:00:00,pm,125.0,1.25,False,False,2,"AM: LC at +1. SHC at +3. LC at +5 and +9. PM: LC at +2, +3, +4 and +9.",95.0
+Cat_2,Cat_2_20260505_am,2026-05-05 07:00:00,am,117.0,1.25,False,False,3,"AM: LC at +1. SHC at +2, +3 & +4. LC at +9. PM: LC at +2, +3 and +6.",51.0
+Cat_2,Cat_2_20260505_pm,2026-05-05 19:00:00,pm,224.0,1.25,False,False,1,"AM: LC at +1. SHC at +2, +3 & +4. LC at +9. PM: LC at +2, +3 and +6.",139.0
+Cat_2,Cat_2_20260506_am,2026-05-06 07:00:00,am,141.0,1.25,False,False,2,"AM: LC at +1, +3, +4, and +9. PM: LC at +2, +3, +4 and +6.",113.0
+Cat_2,Cat_2_20260506_pm,2026-05-06 19:00:00,pm,174.0,1.25,False,False,2,"AM: LC at +1, +3, +4, and +9. PM: LC at +2, +3, +4 and +6.",60.0
+Cat_2,Cat_2_20260507_am,2026-05-07 07:00:00,am,151.0,1.25,False,False,2,"AM: LC at +1, +2, +3, +5 and +9. PM: SHC at +1 & +2. LC at +3 and +9.",104.0
+Cat_2,Cat_2_20260507_pm,2026-05-07 19:00:00,pm,106.0,1.25,False,False,2,"AM: LC at +1, +2, +3, +5 and +9. PM: SHC at +1 & +2. LC at +3 and +9.",65.0
+Cat_2,Cat_2_20260508_am,2026-05-08 07:00:00,am,140.0,1.25,False,False,2,"AM: LC at +2, +3, +5 and +9. PM: SHC at +2. LC +4 and +9.",73.0
+Cat_2,Cat_2_20260508_pm,2026-05-08 19:00:00,pm,154.0,1.25,False,False,2,"AM: LC at +2, +3, +5 and +9. PM: SHC at +2. LC +4 and +9.",88.0
+Cat_2,Cat_2_20260509_am,2026-05-09 07:00:00,am,104.0,1.25,False,False,2,"AM: SHC at +1 and +2. LC at +6 and +9. PM: LC at +2, +3 and +6.",71.0
+Cat_2,Cat_2_20260509_pm,2026-05-09 19:00:00,pm,198.0,1.25,False,False,1,"AM: SHC at +1 and +2. LC at +6 and +9. PM: LC at +2, +3 and +6.",114.0
+Cat_2,Cat_2_20260510_am,2026-05-10 07:00:00,am,118.0,1.25,False,False,2,"AM: LC at +1. SHC at +2. LC at +3, +5 and +9. PM: LC at +1. SHC at +2. LC at +4 and +9.",74.0
+Cat_2,Cat_2_20260510_pm,2026-05-10 19:00:00,pm,122.0,1.25,False,False,2,"AM: LC at +1. SHC at +2. LC at +3, +5 and +9. PM: LC at +1. SHC at +2. LC at +4 and +9.",65.0
+Cat_2,Cat_2_20260511_am,2026-05-11 07:00:00,am,165.0,1.25,False,False,2,"AM: SHC at +2 and +3. LC at +6 and +9. PM: LC at +2, +3, +4 and +9.",71.0
+Cat_2,Cat_2_20260511_pm,2026-05-11 19:00:00,pm,114.0,1.25,False,False,1,"AM: SHC at +2 and +3. LC at +6 and +9. PM: LC at +2, +3, +4 and +9.",88.0
+Cat_2,Cat_2_20260512_am,2026-05-12 07:00:00,am,98.0,1.25,False,False,2,"AM: SHC at +1, +2 and +3. LC at +8. PM: SHC at +1, +2 and +3. LC at +8.",86.0
+Cat_2,Cat_2_20260512_pm,2026-05-12 19:00:00,pm,122.0,1.25,False,False,1,"AM: SHC at +1, +2 and +3. LC at +8. PM: SHC at +1, +2 and +3. LC at +8.",76.0
+Cat_2,Cat_2_20260513_am,2026-05-13 07:00:00,am,114.0,1.25,False,False,2,AM: SHC at +2 and +3. LC at +6 and +8. PM: SHC at +2 and +3. LC at +4 and +6.,63.0
+Cat_2,Cat_2_20260513_pm,2026-05-13 19:00:00,pm,104.0,1.25,False,False,0,AM: SHC at +2 and +3. LC at +6 and +8. PM: SHC at +2 and +3. LC at +4 and +6.,
+Cat_2,Cat_2_20260514_am,2026-05-14 07:00:00,am,142.0,1.25,False,False,2,"AM: SHC at +3 and +4. LC at +7 and +8. PM: SHC at +1, +2, and +4. LC at +8.",74.0
+Cat_2,Cat_2_20260514_pm,2026-05-14 19:00:00,pm,98.0,1.25,False,False,2,"AM: SHC at +3 and +4. LC at +7 and +8. PM: SHC at +1, +2, and +4. LC at +8.",52.0
+Cat_2,Cat_2_20260515_am,2026-05-15 07:00:00,am,166.0,1.25,False,False,2,"AM: LC at +3, +4, +5, +6 and +8. PM: LC at +1, +2, +4 and +9.",70.0
+Cat_2,Cat_2_20260515_pm,2026-05-15 19:00:00,pm,118.0,1.25,False,False,0,"AM: LC at +3, +4, +5, +6 and +8. PM: LC at +1, +2, +4 and +9.",
+Cat_2,Cat_2_20260516_am,2026-05-16 07:00:00,am,91.0,1.25,False,False,2,"AM: SHC at +1, +2 and +3. LC at +6. PM: LC at +2, +3, +5 and +9.",68.0
+Cat_2,Cat_2_20260516_pm,2026-05-16 19:00:00,pm,160.0,1.25,False,False,1,"AM: SHC at +1, +2 and +3. LC at +6. PM: LC at +2, +3, +5 and +9.",146.0
+Cat_2,Cat_2_20260517_am,2026-05-17 07:00:00,am,185.0,1.25,False,False,2,"AM: LC at +2, +5, +6 and +9. PM: LC at +1. SHC at +2. LC at +3 and +9.",100.0
+Cat_2,Cat_2_20260517_pm,2026-05-17 19:00:00,pm,135.0,1.25,False,False,1,"AM: LC at +2, +5, +6 and +9. PM: LC at +1. SHC at +2. LC at +3 and +9.",67.0
+Cat_2,Cat_2_20260518_am,2026-05-18 07:00:00,am,143.0,1.25,False,False,2,"AM: SHC at +3 and +4. LC at +7 and +9. PM: LC at +4, +5, +6 and +9.",69.0
+Cat_2,Cat_2_20260518_pm,2026-05-18 19:00:00,pm,166.0,1.25,False,False,1,"AM: SHC at +3 and +4. LC at +7 and +9. PM: LC at +4, +5, +6 and +9.",84.0
+Cat_2,Cat_2_20260519_am,2026-05-19 07:00:00,am,115.0,1.25,False,False,2,"AM: LC at +2.5, +3.5, +6 and +9. PM: SHC at +1 and +2. LC at +5 and +9.",70.0
+Cat_2,Cat_2_20260519_pm,2026-05-19 19:00:00,pm,66.0,1.0,False,False,2,"AM: LC at +2.5, +3.5, +6 and +9. PM: SHC at +1 and +2. LC at +5 and +9.",60.0
+Cat_2,Cat_2_20260520_am,2026-05-20 07:00:00,am,105.0,1.25,False,False,2,AM: SHC at +1 and +2. LC at +3 and +6. PM: SHC at +1 and +2. LC at +7..,75.0
+Cat_2,Cat_2_20260520_pm,2026-05-20 19:00:00,pm,93.0,1.25,False,False,0,AM: SHC at +1 and +2. LC at +3 and +6. PM: SHC at +1 and +2. LC at +7..,
+Cat_2,Cat_2_20260521_am,2026-05-21 07:00:00,am,86.0,1.0,False,False,2,"AM: SHC at +1. LC at +2, +4 and +6.5. PM: SHC at +1 and +2. LC at +6.",81.0
+Cat_2,Cat_2_20260521_pm,2026-05-21 19:00:00,pm,102.0,1.0,False,False,1,"AM: SHC at +1. LC at +2, +4 and +6.5. PM: SHC at +1 and +2. LC at +6.",72.0
+Cat_2,Cat_2_20260522_am,2026-05-22 07:00:00,am,107.0,1.0,False,False,2,"AM: SHC at +1, +2 and +3. LC at +6. PM: LC at +3, +4 and +6.",77.0
+Cat_2,Cat_2_20260522_pm,2026-05-22 19:00:00,pm,141.0,1.0,False,False,1,"AM: SHC at +1, +2 and +3. LC at +6. PM: LC at +3, +4 and +6.",86.0
+Cat_2,Cat_2_20260523_am,2026-05-23 07:00:00,am,100.0,1.0,False,False,2,"AM: SHC at +3 and +4. LC at +5 and +7. PM: LC at +2, +3, +4 and +8.",60.0
+Cat_2,Cat_2_20260523_pm,2026-05-23 19:00:00,pm,180.0,1.0,False,False,1,"AM: SHC at +3 and +4. LC at +5 and +7. PM: LC at +2, +3, +4 and +8.",148.0
+Cat_2,Cat_2_20260524_am,2026-05-24 07:00:00,am,131.0,1.0,False,False,2,"AM: LC at +1. SHC at +4. LC at +5 and +7. PM: LC at +2, +3, +4 and +8.",53.0
+Cat_2,Cat_2_20260524_pm,2026-05-24 19:00:00,pm,163.0,1.0,False,False,1,"AM: LC at +1. SHC at +4. LC at +5 and +7. PM: LC at +2, +3, +4 and +8.",112.0
+Cat_2,Cat_2_20260525_am,2026-05-25 07:00:00,am,161.0,1.0,False,False,2,"AM: LC at +2, +3, +4 and +8. PM: LC at +2, +3, +4 and +7.",73.0
+Cat_2,Cat_2_20260525_pm,2026-05-25 19:00:00,pm,200.0,1.0,False,False,1,"AM: LC at +2, +3, +4 and +8. PM: LC at +2, +3, +4 and +7.",152.0
+Cat_2,Cat_2_20260526_am,2026-05-26 07:00:00,am,135.0,1.0,False,False,2,"AM: SHC at +1. LC at +2, +3 and +6. PM: LC at +1, +2, +3 and +8.",100.0
+Cat_2,Cat_2_20260526_pm,2026-05-26 19:00:00,pm,236.0,1.0,False,False,1,"AM: SHC at +1. LC at +2, +3 and +6. PM: LC at +1, +2, +3 and +8.",162.0
+Cat_2,Cat_2_20260527_am,2026-05-27 07:00:00,am,160.0,1.25,False,False,1,"AM: LC at +3, +4, +5 and +8. PM: LC at +2, +3, +5 and +8.",102.0
+Cat_2,Cat_2_20260527_pm,2026-05-27 19:00:00,pm,152.0,1.25,False,False,2,"AM: LC at +3, +4, +5 and +8. PM: LC at +2, +3, +5 and +8.",78.0
+Cat_2,Cat_2_20260528_am,2026-05-28 07:00:00,am,116.0,1.25,False,False,2,AM: SHC at +3 and +4. LC at +5 and +8. PM: SHC at +1 and +2. LC at +3 and +8.,77.0
+Cat_2,Cat_2_20260528_pm,2026-05-28 19:00:00,pm,103.0,1.25,False,False,1,AM: SHC at +3 and +4. LC at +5 and +8. PM: SHC at +1 and +2. LC at +3 and +8.,70.0
+Cat_2,Cat_2_20260529_am,2026-05-29 07:00:00,am,166.0,1.25,False,False,2,"AM: SHC at +3. LC at +4, +5 and +8. PM: LC at +2, +3, +4 and +8.",68.0
+Cat_2,Cat_2_20260529_pm,2026-05-29 19:00:00,pm,154.0,1.25,False,False,2,"AM: SHC at +3. LC at +4, +5 and +8. PM: LC at +2, +3, +4 and +8.",72.0
+Cat_2,Cat_2_20260530_am,2026-05-30 07:00:00,am,160.0,1.25,False,False,2,"AM: LC at +1, +3, +6, +7 and +9. PM: LC at +1, +2, +5 and +9.",80.0
+Cat_2,Cat_2_20260530_pm,2026-05-30 19:00:00,pm,159.0,1.25,False,False,2,"AM: LC at +1, +3, +6, +7 and +9. PM: LC at +1, +2, +5 and +9.",84.0
+Cat_2,Cat_2_20260531_am,2026-05-31 07:00:00,am,164.0,1.25,False,False,2,"AM: LC at +1, +2, +6 and +9.",143.0
+Cat_2,Cat_2_20260531_pm,2026-05-31 19:00:00,pm,138.0,1.25,False,False,0,"AM: LC at +1, +2, +6 and +9.",
+Cat_2,Cat_2_20260601_am,2026-06-01 07:00:00,am,113.0,1.25,False,False,2,"AM: LC at +3, +4, +5 and +8. PM: LC at +3, +4, +5 and +7.",63.0
+Cat_2,Cat_2_20260601_pm,2026-06-01 19:00:00,pm,112.0,1.25,False,False,1,"AM: LC at +3, +4, +5 and +8. PM: LC at +3, +4, +5 and +7.",90.0
+Cat_2,Cat_2_20260602_am,2026-06-02 07:00:00,am,90.0,1.25,False,False,2,"AM: SHC at +3 and +4. LC at +6 and +9. PM: LC at +2, +3, +4 and +7.",77.0
+Cat_2,Cat_2_20260602_pm,2026-06-02 19:00:00,pm,121.0,1.25,False,False,1,"AM: SHC at +3 and +4. LC at +6 and +9. PM: LC at +2, +3, +4 and +7.",80.0
+Cat_2,Cat_2_20260603_am,2026-06-03 07:00:00,am,177.0,1.25,False,False,1,"AM: SHC at +1. LC at +2, +4, +7 and +8. PM: SHC at +2 and +3. LC at +4 and +7.",129.0
+Cat_2,Cat_2_20260603_pm,2026-06-03 19:00:00,pm,151.0,1.25,False,False,2,"AM: SHC at +1. LC at +2, +4, +7 and +8. PM: SHC at +2 and +3. LC at +4 and +7.",68.0
+Cat_2,Cat_2_20260604_am,2026-06-04 07:00:00,am,119.0,1.25,False,False,3,"AM: LC at +2, +3, +4, and +6. PM: SHC at +2 and +3. LC at +4 and +7.",63.0
+Cat_2,Cat_2_20260604_pm,2026-06-04 19:00:00,pm,161.0,1.25,False,False,3,"AM: LC at +2, +3, +4, and +6. PM: SHC at +2 and +3. LC at +4 and +7.",42.0
+Cat_2,Cat_2_20260605_am,2026-06-05 07:00:00,am,167.0,1.25,False,False,2,"AM: LC at +2, +3, +5 and +8. PM: LC at +1, +3, +4 and +6.",122.0
+Cat_2,Cat_2_20260605_pm,2026-06-05 19:00:00,pm,116.0,1.25,False,False,1,"AM: LC at +2, +3, +5 and +8. PM: LC at +1, +3, +4 and +6.",100.0
+Cat_2,Cat_2_20260606_am,2026-06-06 07:00:00,am,116.0,1.25,False,False,2,"AM: SHC at +2 and +3. LC at +4 and +8. PM: LC at +2,",64.0
+Cat_2,Cat_2_20260606_pm,2026-06-06 19:00:00,pm,166.0,1.25,False,False,1,"AM: SHC at +2 and +3. LC at +4 and +8. PM: LC at +2,",113.0
+Cat_2,Cat_2_20260607_am,2026-06-07 07:00:00,am,86.0,1.25,False,False,2,"AM: LC at +1, +2, +3, +5 and +8. PM: LC at +2, +3, +5 and +8.",80.0
+Cat_2,Cat_2_20260607_pm,2026-06-07 19:00:00,pm,139.0,1.25,False,False,0,"AM: LC at +1, +2, +3, +5 and +8. PM: LC at +2, +3, +5 and +8.",
+Cat_2,Cat_2_20260608_am,2026-06-08 07:00:00,am,126.0,1.25,False,False,2,"AM: LC at +1, +2, +3, +4 and +8.",80.0
+Cat_2,Cat_2_20260608_pm,2026-06-08 19:00:00,pm,117.0,0.0,True,False,0,"AM: LC at +1, +2, +3, +4 and +8.",
+Cat_2,Cat_2_20260609_am,2026-06-09 07:00:00,am,256.0,1.25,False,False,2,"AM: LC at +2, +3, +4, +6 and +8. PM: LC at +2, +4, +5 and +8.",112.0
+Cat_2,Cat_2_20260609_pm,2026-06-09 19:00:00,pm,189.0,1.25,False,False,2,"AM: LC at +2, +3, +4, +6 and +8. PM: LC at +2, +4, +5 and +8.",144.0
+Cat_2,Cat_2_20260610_am,2026-06-10 07:00:00,am,167.0,1.25,False,False,2,"AM: LC at +3, +4, +5 and +8. PM: LC at +2, +3 and +4.",74.0
+Cat_2,Cat_2_20260610_pm,2026-06-10 19:00:00,pm,163.0,1.25,False,False,2,"AM: LC at +3, +4, +5 and +8. PM: LC at +2, +3 and +4.",107.0
+Cat_2,Cat_2_20260611_am,2026-06-11 07:00:00,am,147.0,1.25,False,False,2,"AM: LC at +2, +3, +4 and +8. PM: LC at +1, +4, +5, and +7.",84.0
+Cat_2,Cat_2_20260611_pm,2026-06-11 19:00:00,pm,158.0,1.25,False,False,1,"AM: LC at +2, +3, +4 and +8. PM: LC at +1, +4, +5, and +7.",81.0
+Cat_2,Cat_2_20260612_am,2026-06-12 07:00:00,am,181.0,1.25,False,False,2,"AM: LC at +2, +3, +4, +5 and +8. PM: LC at +1, +4, +5 and +7.",85.0
+Cat_2,Cat_2_20260612_pm,2026-06-12 19:00:00,pm,207.0,1.25,False,False,1,"AM: LC at +2, +3, +4, +5 and +8. PM: LC at +1, +4, +5 and +7.",143.0
+Cat_2,Cat_2_20260613_am,2026-06-13 07:00:00,am,173.0,1.5,False,False,2,"AM: LC at +2, +5, +6 and +9. PM: LC at +1, +3, +5 and +8.",160.0
+Cat_2,Cat_2_20260613_pm,2026-06-13 19:00:00,pm,173.0,1.5,False,False,2,"AM: LC at +2, +5, +6 and +9. PM: LC at +1, +3, +5 and +8.",101.0
+Cat_2,Cat_2_20260614_am,2026-06-14 07:00:00,am,212.0,1.5,False,False,2,"AM: LC at +1, +2, +3 and +6. PM: LC at +4, +5, +6 and +8.",106.0
+Cat_2,Cat_2_20260614_pm,2026-06-14 19:00:00,pm,124.0,1.5,False,False,1,"AM: LC at +1, +2, +3 and +6. PM: LC at +4, +5, +6 and +8.",73.0
+Cat_2,Cat_2_20260615_am,2026-06-15 07:00:00,am,153.0,1.5,False,False,2,"AM: LC at +3, +4, +5 and +8. PM: LC at +2, +3, +4 and +8.",81.0
+Cat_2,Cat_2_20260615_pm,2026-06-15 19:00:00,pm,212.0,1.5,False,False,0,"AM: LC at +3, +4, +5 and +8. PM: LC at +2, +3, +4 and +8.",
+Cat_2,Cat_2_20260616_am,2026-06-16 07:00:00,am,147.0,1.5,False,False,2,"AM: LC at +3, +4, +5 and +8. PM: LC at +1, +4, +5 and +7.",68.0
+Cat_2,Cat_2_20260616_pm,2026-06-16 19:00:00,pm,156.0,1.5,False,False,1,"AM: LC at +3, +4, +5 and +8. PM: LC at +1, +4, +5 and +7.",68.0
+Cat_2,Cat_2_20260617_am,2026-06-17 07:00:00,am,190.0,1.5,False,False,2,"AM: LC at +3, +4, +7 and +9. PM: LC at +1, +2, +4 and +8.",69.0
+Cat_2,Cat_2_20260617_pm,2026-06-17 19:00:00,pm,137.0,1.5,False,False,2,"AM: LC at +3, +4, +7 and +9. PM: LC at +1, +2, +4 and +8.",106.0
+Cat_2,Cat_2_20260618_am,2026-06-18 07:00:00,am,93.0,1.5,False,False,2,"AM: LC at +1, +2, +6 and +9. PM: LC at +2, +3, +5 and +7.",79.0
+Cat_2,Cat_2_20260618_pm,2026-06-18 19:00:00,pm,156.0,1.5,False,False,0,"AM: LC at +1, +2, +6 and +9. PM: LC at +2, +3, +5 and +7.",
+Cat_2,Cat_2_20260619_am,2026-06-19 07:00:00,am,177.0,1.5,False,False,2,"AM: LC at +1. MC at +3. LC at +4, +5 and +8. PM: LC at +2, +4, +6 and +7.",49.0
+Cat_2,Cat_2_20260619_pm,2026-06-19 19:00:00,pm,153.0,1.5,False,False,1,"AM: LC at +1. MC at +3. LC at +4, +5 and +8. PM: LC at +2, +4, +6 and +7.",148.0
+Cat_2,Cat_2_20260620_am,2026-06-20 07:00:00,am,120.0,1.5,False,False,2,"AM: LC at +1, +4, +5 and +8. PM: LC at +1, +2, +3 and +5.",84.0
+Cat_2,Cat_2_20260620_pm,2026-06-20 19:00:00,pm,94.0,1.5,False,False,2,"AM: LC at +1, +4, +5 and +8. PM: LC at +1, +2, +3 and +5.",79.0
+Cat_2,Cat_2_20260621_am,2026-06-21 07:00:00,am,107.0,1.5,False,False,2,"AM: LC at +1, +4, +5 and +6.5. PM: LC at +1, +2 , +3 and +6.",79.0
+Cat_2,Cat_2_20260621_pm,2026-06-21 19:00:00,pm,126.0,1.5,False,False,1,"AM: LC at +1, +4, +5 and +6.5. PM: LC at +1, +2 , +3 and +6.",90.0
+Cat_2,Cat_2_20260622_am,2026-06-22 07:00:00,am,127.0,1.5,False,False,1,"AM: LC at +2, +3, +5 and +7. PM: LC at +2, +3, +4 and +6.",103.0
+Cat_2,Cat_2_20260622_pm,2026-06-22 19:00:00,pm,107.0,1.5,False,False,2,"AM: LC at +2, +3, +5 and +7. PM: LC at +2, +3, +4 and +6.",98.0
+Cat_2,Cat_2_20260623_am,2026-06-23 07:00:00,am,116.0,1.5,False,False,1,"AM: LC at +2, +3, +4 and +7. PM: LC at +2, +3, +4 and +8.",100.0
+Cat_2,Cat_2_20260623_pm,2026-06-23 19:00:00,pm,151.0,1.5,False,False,0,"AM: LC at +2, +3, +4 and +7. PM: LC at +2, +3, +4 and +8.",
+Cat_2,Cat_2_20260624_am,2026-06-24 07:00:00,am,102.0,1.5,False,False,5,"AM: HC at +2, +2.5, & +3. LC at +6 & 8. PM: LC at +2, +4, +5 and +8.",39.0
+Cat_2,Cat_2_20260624_pm,2026-06-24 19:00:00,pm,194.0,1.25,False,False,2,"AM: HC at +2, +2.5, & +3. LC at +6 & 8. PM: LC at +2, +4, +5 and +8.",81.0
+Cat_2,Cat_2_20260625_am,2026-06-25 07:00:00,am,213.0,1.25,False,False,2,"AM: LC at +3, +4, +6 and +8. PM: LC at +1, +2, +3 and +7.",144.0
+Cat_2,Cat_2_20260625_pm,2026-06-25 19:00:00,pm,127.0,1.25,False,False,0,"AM: LC at +3, +4, +6 and +8. PM: LC at +1, +2, +3 and +7.",
+Cat_2,Cat_2_20260626_am,2026-06-26 07:00:00,am,177.0,1.25,False,False,2,"AM: LC at +2, +3, +5 and +8. PM: LC at +3, +4, +5 and +7.",79.0
+Cat_2,Cat_2_20260626_pm,2026-06-26 19:00:00,pm,157.0,1.25,False,False,1,"AM: LC at +2, +3, +5 and +8. PM: LC at +3, +4, +5 and +7.",96.0
+Cat_2,Cat_2_20260627_am,2026-06-27 07:00:00,am,218.0,1.25,False,False,2,"AM: LC at +2, +3, +4 and +8. PM: LC at +2, +3, +4 and +7.",146.0
+Cat_2,Cat_2_20260627_pm,2026-06-27 19:00:00,pm,163.0,1.25,False,False,0,"AM: LC at +2, +3, +4 and +8. PM: LC at +2, +3, +4 and +7.",
+Cat_2,Cat_2_20260628_am,2026-06-28 07:00:00,am,127.0,1.25,False,False,2,"AM: LC at +2, +3, +4 and +7. PM: LC at +2, +3, +4 and +8.",95.0
+Cat_2,Cat_2_20260628_pm,2026-06-28 19:00:00,pm,173.0,1.25,False,False,1,"AM: LC at +2, +3, +4 and +7. PM: LC at +2, +3, +4 and +8.",108.0
+Cat_2,Cat_2_20260629_am,2026-06-29 07:00:00,am,185.0,1.25,False,False,2,"AM: LC at +2, +3, +5 and +8. PM: LC at +2, +3, +4 and +7.",90.0
+Cat_2,Cat_2_20260629_pm,2026-06-29 19:00:00,pm,150.0,1.25,False,False,0,"AM: LC at +2, +3, +5 and +8. PM: LC at +2, +3, +4 and +7.",
+Cat_2,Cat_2_20260630_am,2026-06-30 07:00:00,am,116.0,1.25,False,False,3,"AM: LC at +2. MC at +3 & +3.5. LC at +5 & +8. PM: LC at +2, +3 and +4.",44.0
+Cat_2,Cat_2_20260630_pm,2026-06-30 19:00:00,pm,178.0,1.25,False,False,2,"AM: LC at +2. MC at +3 & +3.5. LC at +5 & +8. PM: LC at +2, +3 and +4.",100.0
+Cat_2,Cat_2_20260701_am,2026-07-01 07:00:00,am,176.0,1.25,False,False,2,"AM: LC at +1, +2, +3, +6 and +8. PM: LC at +3, +4 and +5.",103.0
+Cat_2,Cat_2_20260701_pm,2026-07-01 19:00:00,pm,139.0,1.25,False,False,1,"AM: LC at +1, +2, +3, +6 and +8. PM: LC at +3, +4 and +5.",137.0
+Cat_2,Cat_2_20260702_am,2026-07-02 07:00:00,am,176.0,1.25,False,False,2,"AM: LC at +2, +3, +4 and +7. PM: LC at +2, +3 and +4.",101.0
+Cat_2,Cat_2_20260702_pm,2026-07-02 19:00:00,pm,153.0,1.25,False,False,1,"AM: LC at +2, +3, +4 and +7. PM: LC at +2, +3 and +4.",112.0
+Cat_2,Cat_2_20260703_am,2026-07-03 07:00:00,am,143.0,1.25,False,False,2,"AM: LC at +2, +3, +4, +6 and +8. PM: MC at +2. LC at +3 and +4.",103.0
+Cat_2,Cat_2_20260703_pm,2026-07-03 19:00:00,pm,156.0,1.25,False,False,1,"AM: LC at +2, +3, +4, +6 and +8. PM: MC at +2. LC at +3 and +4.",79.0
+Cat_2,Cat_2_20260704_am,2026-07-04 07:00:00,am,186.0,1.25,False,False,2,"AM: LC at +2, +3, +6 and +8. PM: LC at +2, +3, +4 and +6.",108.0
+Cat_2,Cat_2_20260704_pm,2026-07-04 19:00:00,pm,182.0,1.25,False,False,2,"AM: LC at +2, +3, +6 and +8. PM: LC at +2, +3, +4 and +6.",90.0
+Cat_2,Cat_2_20260705_am,2026-07-05 07:00:00,am,163.0,1.25,False,False,0,"AM: LC at +2, +3, +4 and +6. PM: LC at +2, +3 and +4.",
+Cat_2,Cat_2_20260705_pm,2026-07-05 19:00:00,pm,171.0,1.25,False,False,3,"AM: LC at +2, +3, +4 and +6. PM: LC at +2, +3 and +4.",50.0
+Cat_2,Cat_2_20260706_am,2026-07-06 07:00:00,am,327.0,1.25,False,False,1,"AM: LC at +3, +4 and +5. PM: LC at +2, +3, +4 and +8.",265.0
+Cat_2,Cat_2_20260706_pm,2026-07-06 19:00:00,pm,159.0,1.25,False,False,1,"AM: LC at +3, +4 and +5. PM: LC at +2, +3, +4 and +8.",100.0
+Cat_2,Cat_2_20260707_am,2026-07-07 07:00:00,am,163.0,1.25,False,False,2,"AM: LC at +2, +3, +5 and +7. PM: LC at +2, +3, +4 and +8.",103.0
+Cat_2,Cat_2_20260707_pm,2026-07-07 19:00:00,pm,132.0,1.25,False,False,1,"AM: LC at +2, +3, +5 and +7. PM: LC at +2, +3, +4 and +8.",89.0
+Cat_2,Cat_2_20260708_am,2026-07-08 07:00:00,am,157.0,1.25,False,False,2,"AM: LC at +2, +3, +6 and +8. PM: LC at +2 & +3. MC at +4. LC at +6.",82.0
+Cat_2,Cat_2_20260708_pm,2026-07-08 19:00:00,pm,178.0,1.25,False,False,2,"AM: LC at +2, +3, +6 and +8. PM: LC at +2 & +3. MC at +4. LC at +6.",65.0
+Cat_2,Cat_2_20260709_am,2026-07-09 07:00:00,am,201.0,1.25,False,False,2,AM: LC at +2. MC at +3 and +4. LC at +6 & +8. PM: MC at +2 and +3. LC at +4 and +8.,75.0
+Cat_2,Cat_2_20260709_pm,2026-07-09 19:00:00,pm,143.0,1.25,False,False,2,AM: LC at +2. MC at +3 and +4. LC at +6 & +8. PM: MC at +2 and +3. LC at +4 and +8.,56.0
+Cat_2,Cat_2_20260710_am,2026-07-10 07:00:00,am,176.0,1.25,False,False,3,"AM: MC at +2, +3 & +4. LC at +6. PM: LC at +2, +3, +4 and +6.",65.0
+Cat_2,Cat_2_20260710_pm,2026-07-10 19:00:00,pm,203.0,1.25,False,False,2,"AM: MC at +2, +3 & +4. LC at +6. PM: LC at +2, +3, +4 and +6.",114.0
+Cat_2,Cat_2_20260711_am,2026-07-11 07:00:00,am,63.0,1.25,False,False,2,"AM: MC at +2 & +3. LC at +4 & +7. PM: LC at +2, +3 and +4.",51.0
+Cat_2,Cat_2_20260711_pm,2026-07-11 19:00:00,pm,144.0,1.25,False,False,1,"AM: MC at +2 & +3. LC at +4 & +7. PM: LC at +2, +3 and +4.",120.0
+Cat_2,Cat_2_20260712_am,2026-07-12 07:00:00,am,157.0,1.25,False,False,3,"AM: LC at +2, +3, +4 and +8. PM: MC at +2 and +3. LC at +4 and +9.",57.0
+Cat_2,Cat_2_20260712_pm,2026-07-12 19:00:00,pm,151.0,1.25,False,False,2,"AM: LC at +2, +3, +4 and +8. PM: MC at +2 and +3. LC at +4 and +9.",74.0
+Cat_2,Cat_2_20260713_am,2026-07-13 07:00:00,am,135.0,1.25,False,False,2,"AM: SHC at +2 and +3. LC at +4, +5 and +8. PM: LC at +2, +3, and +4.",60.0
+Cat_2,Cat_2_20260713_pm,2026-07-13 19:00:00,pm,186.0,1.25,False,False,0,"AM: SHC at +2 and +3. LC at +4, +5 and +8. PM: LC at +2, +3, and +4.",
+Cat_2,Cat_2_20260714_am,2026-07-14 07:00:00,am,123.0,1.25,False,False,2,"AM: LC at +2, +3, +4 and +8. PM: LC at +2, +3, +4 and +8.",56.0
+Cat_2,Cat_2_20260714_pm,2026-07-14 19:00:00,pm,112.0,1.25,False,False,2,"AM: LC at +2, +3, +4 and +8. PM: LC at +2, +3, +4 and +8.",80.0
+Cat_2,Cat_2_20260715_am,2026-07-15 07:00:00,am,90.0,1.25,False,False,3,AM: MC at +2 and +3. LC at +6 and +8. PM: SHC at +3 & +4. LC at +5 & +8.,56.0
+Cat_2,Cat_2_20260715_pm,2026-07-15 19:00:00,pm,122.0,1.25,False,False,2,AM: MC at +2 and +3. LC at +6 and +8. PM: SHC at +3 & +4. LC at +5 & +8.,63.0
+Cat_2,Cat_2_20260716_am,2026-07-16 07:00:00,am,183.0,1.25,False,False,2,"AM: LC at +3, +4, +5 and +8. PM: SHC at +2 and +3. LC at +4.",113.0
+Cat_2,Cat_2_20260716_pm,2026-07-16 19:00:00,pm,126.0,1.25,False,False,2,"AM: LC at +3, +4, +5 and +8. PM: SHC at +2 and +3. LC at +4.",79.0
+Cat_2,Cat_2_20260717_am,2026-07-17 07:00:00,am,145.0,1.25,False,False,2,"AM: SHC at +3. LC at +4, +6 and +8. PM: LC at +3, +4, +5 and +6.",71.0
+Cat_2,Cat_2_20260717_pm,2026-07-17 19:00:00,pm,114.0,1.25,False,False,1,"AM: SHC at +3. LC at +4, +6 and +8. PM: LC at +3, +4, +5 and +6.",115.0
+Cat_2,Cat_2_20260718_am,2026-07-18 07:00:00,am,127.0,1.25,False,False,2,AM: SHC at +2 and +3. LC at +5 and +7. PM: MC at +3 & +4. LC at +6.,73.0
+Cat_2,Cat_2_20260718_pm,2026-07-18 19:00:00,pm,149.0,1.25,False,False,2,AM: SHC at +2 and +3. LC at +5 and +7. PM: MC at +3 & +4. LC at +6.,65.0
+Cat_2,Cat_2_20260719_am,2026-07-19 07:00:00,am,163.0,1.25,False,False,2,"AM: LC at +2, +3, +4 and +6. PM: LC at +2, +3, +4 and +5.",110.0
+Cat_2,Cat_2_20260719_pm,2026-07-19 19:00:00,pm,106.0,1.25,False,False,2,"AM: LC at +2, +3, +4 and +6. PM: LC at +2, +3, +4 and +5.",71.0
+Cat_2,Cat_2_20260720_am,2026-07-20 07:00:00,am,164.0,1.25,False,False,2,"AM: MC at +3. LC at +4, +5 and +7. PM: LC at +2, +3, +4 and +8.",76.0
+Cat_2,Cat_2_20260720_pm,2026-07-20 19:00:00,pm,140.0,1.25,False,False,0,"AM: MC at +3. LC at +4, +5 and +7. PM: LC at +2, +3, +4 and +8.",
+Cat_2,Cat_2_20260721_am,2026-07-21 07:00:00,am,154.0,1.25,False,False,2,"AM: LC at +3, +4, +5, +6 and +8. PM: LC at +2, +3, +4 and +8.",88.0
+Cat_2,Cat_2_20260721_pm,2026-07-21 19:00:00,pm,138.0,1.25,False,False,1,"AM: LC at +3, +4, +5, +6 and +8. PM: LC at +2, +3, +4 and +8.",133.0
+Cat_2,Cat_2_20260722_am,2026-07-22 07:00:00,am,143.0,1.25,False,False,1,"AM: LC at +3, +5, +6 and +8. PM: LC at +2, +3, +5 and +8.",114.0
+Cat_2,Cat_2_20260722_pm,2026-07-22 19:00:00,pm,121.0,1.25,False,False,2,"AM: LC at +3, +5, +6 and +8. PM: LC at +2, +3, +5 and +8.",77.0
+Cat_2,Cat_2_20260723_am,2026-07-23 07:00:00,am,156.0,1.25,False,False,2,"AM: SHC at +3. LC at +4, +5 and +8. PM: LC at +3, +4, +5.",76.0
+Cat_2,Cat_2_20260723_pm,2026-07-23 19:00:00,pm,131.0,1.25,False,False,2,"AM: SHC at +3. LC at +4, +5 and +8. PM: LC at +3, +4, +5.",86.0
+Cat_2,Cat_2_20260724_am,2026-07-24 07:00:00,am,116.0,1.25,False,False,2,"AM: SHC at +3. LC at +4, +6 and +8. PM: LC at +2, +3, +4 and +6.",77.0
+Cat_2,Cat_2_20260724_pm,2026-07-24 19:00:00,pm,170.0,1.25,False,False,1,"AM: SHC at +3. LC at +4, +6 and +8. PM: LC at +2, +3, +4 and +6.",122.0
+Cat_2,Cat_2_20260725_am,2026-07-25 07:00:00,am,230.0,1.25,False,False,3,"AM: LC at +2, +3, +4 and +6. PM: LC at +2, +3, +4 and +6.",74.0
+Cat_2,Cat_2_20260725_pm,2026-07-25 19:00:00,pm,207.0,1.25,False,False,2,"AM: LC at +2, +3, +4 and +6. PM: LC at +2, +3, +4 and +6.",80.0
+Cat_2,Cat_2_20260726_am,2026-07-26 07:00:00,am,224.0,1.25,False,False,2,"AM: LC at +2, +3, +5 and +7. PM: LC at +3, +4, +5 and +8.",149.0
+Cat_2,Cat_2_20260726_pm,2026-07-26 19:00:00,pm,161.0,1.25,False,False,2,"AM: LC at +2, +3, +5 and +7. PM: LC at +3, +4, +5 and +8.",89.0
+Cat_2,Cat_2_20260727_am,2026-07-27 07:00:00,am,105.0,1.25,False,False,2,"AM: SHC at +2. LC at +5, +6 and +8. PM: SHC at +1 and +2. LC at +3 and +4.",68.0
+Cat_2,Cat_2_20260727_pm,2026-07-27 19:00:00,pm,84.0,1.25,False,False,2,"AM: SHC at +2. LC at +5, +6 and +8. PM: SHC at +1 and +2. LC at +3 and +4.",58.0
+Cat_2,Cat_2_20260728_am,2026-07-28 07:00:00,am,139.0,1.25,False,False,2,"AM: SHC at +2 and +3. LC at +4 and +7. PM: LC at +3, +4 and +6.",68.0
+Cat_2,Cat_2_20260728_pm,2026-07-28 19:00:00,pm,150.0,1.25,False,False,2,"AM: SHC at +2 and +3. LC at +4 and +7. PM: LC at +3, +4 and +6.",84.0
+Cat_2,Cat_2_20260729_am,2026-07-29 07:00:00,am,172.0,1.25,False,False,2,"AM: LC at +3, +4, +5 and +7. PM: LC at +2, +3 and +4.",89.0
+Cat_2,Cat_2_20260729_pm,2026-07-29 19:00:00,pm,145.0,1.25,False,False,2,"AM: LC at +3, +4, +5 and +7. PM: LC at +2, +3 and +4.",73.0
+Cat_2,Cat_2_20260730_am,2026-07-30 07:00:00,am,203.0,1.25,False,False,2,"AM: LC at +2, +3, +5 and +7. PM: LC at +3, +4, +5 and +8.",163.0
+Cat_2,Cat_2_20260730_pm,2026-07-30 19:00:00,pm,193.0,1.25,False,False,0,"AM: LC at +2, +3, +5 and +7. PM: LC at +3, +4, +5 and +8.",
+Cat_2,Cat_2_20260731_am,2026-07-31 07:00:00,am,213.0,1.25,False,False,1,"AM: LC at +2, +4, +5 and +7. PM: LC at +2, +3, +4 and +8.",137.0
+Cat_2,Cat_2_20260731_pm,2026-07-31 19:00:00,pm,178.0,1.25,False,False,2,"AM: LC at +2, +4, +5 and +7. PM: LC at +2, +3, +4 and +8.",100.0
+Cat_2,Cat_2_20260801_am,2026-08-01 07:00:00,am,133.0,1.25,False,False,3,"AM: LC at +3, +4, +5 and +7. PM: LC at +1, +2, +3 and +5.",70.0
+Cat_2,Cat_2_20260801_pm,2026-08-01 19:00:00,pm,125.0,1.25,False,False,2,"AM: LC at +3, +4, +5 and +7. PM: LC at +1, +2, +3 and +5.",78.0
+Cat_2,Cat_2_20260802_am,2026-08-02 07:00:00,am,139.0,1.25,False,False,1,"AM: LC at +2, +3, +4 and +6. PM: LC at +3, +4, +5 and +8.",103.0
+Cat_2,Cat_2_20260802_pm,2026-08-02 19:00:00,pm,169.0,1.25,False,False,2,"AM: LC at +2, +3, +4 and +6. PM: LC at +3, +4, +5 and +8.",75.0
+Cat_2,Cat_2_20260803_am,2026-08-03 07:00:00,am,67.0,1.25,False,False,2,"AM: MC at +1 & +2. LC at +4 and +6. PM: LC at +3, +4 and +8.",63.0
+Cat_2,Cat_2_20260803_pm,2026-08-03 19:00:00,pm,140.0,1.25,False,False,1,"AM: MC at +1 & +2. LC at +4 and +6. PM: LC at +3, +4 and +8.",66.0
+Cat_2,Cat_2_20260804_am,2026-08-04 07:00:00,am,149.0,1.25,False,False,2,"AM: LC at +2, +3, +4 and +8. PM: LC at +2, +3, +4 and +8.",82.0
+Cat_2,Cat_2_20260804_pm,2026-08-04 19:00:00,pm,147.0,1.25,False,False,2,"AM: LC at +2, +3, +4 and +8. PM: LC at +2, +3, +4 and +8.",90.0
+Cat_2,Cat_2_20260805_am,2026-08-05 07:00:00,am,139.0,1.25,False,False,2,"AM: SHC at +3 & +4. LC at +5 & +6. PM: LC at +2, +3 and +4.",62.0
+Cat_2,Cat_2_20260805_pm,2026-08-05 19:00:00,pm,182.0,1.25,False,False,1,"AM: SHC at +3 & +4. LC at +5 & +6. PM: LC at +2, +3 and +4.",112.0
+Cat_2,Cat_2_20260806_am,2026-08-06 07:00:00,am,152.0,1.25,False,False,2,"AM: LC at +3, +4, +5 and +7. PM: LC at +3, +4, +5 and +8.",70.0
+Cat_2,Cat_2_20260806_pm,2026-08-06 19:00:00,pm,149.0,1.25,False,False,1,"AM: LC at +3, +4, +5 and +7. PM: LC at +3, +4, +5 and +8.",81.0
+Cat_2,Cat_2_20260807_am,2026-08-07 07:00:00,am,181.0,1.25,False,False,2,"AM: LC at +2. MC at +4 & +5. LC at +6. PM: LC at +2, +3 and +4.",63.0
+Cat_2,Cat_2_20260807_pm,2026-08-07 19:00:00,pm,192.0,1.25,False,False,0,"AM: LC at +2. MC at +4 & +5. LC at +6. PM: LC at +2, +3 and +4.",
+Cat_2,Cat_2_20260808_am,2026-08-08 07:00:00,am,162.0,1.25,False,False,2,"AM: LC at +3, +4, +5 and +7. PM: LC at +2, +3, +4 and +7.",100.0
+Cat_2,Cat_2_20260808_pm,2026-08-08 19:00:00,pm,118.0,1.25,False,False,2,"AM: LC at +3, +4, +5 and +7. PM: LC at +2, +3, +4 and +7.",85.0
+Cat_2,Cat_2_20260809_am,2026-08-09 07:00:00,am,116.0,1.25,False,False,2,"AM: LC at +2, +3, +4, +5 and +8. PM: LC at +2, +4 and +5.",60.0
+Cat_2,Cat_2_20260809_pm,2026-08-09 19:00:00,pm,125.0,1.25,False,False,2,"AM: LC at +2, +3, +4, +5 and +8. PM: LC at +2, +4 and +5.",80.0
+Cat_2,Cat_2_20260810_am,2026-08-10 07:00:00,am,145.0,1.25,False,False,3,"AM: LC at +1, +4, +5 and +7. PM: LC at +1, +2, +3 and +5.",70.0
+Cat_2,Cat_2_20260810_pm,2026-08-10 19:00:00,pm,82.0,1.25,False,False,2,"AM: LC at +1, +4, +5 and +7. PM: LC at +1, +2, +3 and +5.",65.0
+Cat_2,Cat_2_20260811_am,2026-08-11 07:00:00,am,95.0,1.25,False,False,2,"AM: LC at +2, +3, +4 and +7. PM: LC at +1, +2, +3 and +5.",70.0
+Cat_2,Cat_2_20260811_pm,2026-08-11 19:00:00,pm,100.0,1.25,False,False,2,"AM: LC at +2, +3, +4 and +7. PM: LC at +1, +2, +3 and +5.",70.0
+Cat_2,Cat_2_20260812_am,2026-08-12 07:00:00,am,65.0,1.25,False,False,3,"AM: SHC at +2 and +3. LC at +4 and +7. PM: LC at +2, +3 and +4.",61.0
+Cat_2,Cat_2_20260812_pm,2026-08-12 19:00:00,pm,177.0,1.25,False,False,2,"AM: SHC at +2 and +3. LC at +4 and +7. PM: LC at +2, +3 and +4.",110.0
+Cat_2,Cat_2_20260813_am,2026-08-13 07:00:00,am,119.0,1.25,False,False,2,"AM: SHC at +3 and +4. LC at +5 and +7. PM: LC at +2, +3, +4 and +8.",59.0
+Cat_2,Cat_2_20260813_pm,2026-08-13 19:00:00,pm,128.0,1.25,False,False,2,"AM: SHC at +3 and +4. LC at +5 and +7. PM: LC at +2, +3, +4 and +8.",60.0
+Cat_2,Cat_2_20260814_am,2026-08-14 07:00:00,am,155.0,1.25,False,False,2,"AM: LC at +2, +3, +5 and +7. PM: LC at +2, +3 and +8.",88.0
+Cat_2,Cat_2_20260814_pm,2026-08-14 19:00:00,pm,118.0,1.25,False,False,2,"AM: LC at +2, +3, +5 and +7. PM: LC at +2, +3 and +8.",80.0
+Cat_2,Cat_2_20260815_am,2026-08-15 07:00:00,am,88.0,1.25,False,False,2,"AM: SHC at +3 and +4. LC at +5 and +7. PM: LC at +2, +3 and +4.",48.0
+Cat_2,Cat_2_20260815_pm,2026-08-15 19:00:00,pm,182.0,1.25,False,False,1,"AM: SHC at +3 and +4. LC at +5 and +7. PM: LC at +2, +3 and +4.",118.0
+Cat_2,Cat_2_20260816_am,2026-08-16 07:00:00,am,112.0,1.25,False,False,2,"AM: LC at +2, +3, +4 and +7. PM: LC at +2, +3 and +5.",75.0
+Cat_2,Cat_2_20260816_pm,2026-08-16 19:00:00,pm,130.0,1.25,False,False,2,"AM: LC at +2, +3, +4 and +7. PM: LC at +2, +3 and +5.",70.0
+Cat_2,Cat_2_20260817_am,2026-08-17 07:00:00,am,172.0,1.25,False,False,2,"AM: LC at +2, +4, +6 and +7. PM: LC at +2, +3, and +6.",90.0
+Cat_2,Cat_2_20260817_pm,2026-08-17 19:00:00,pm,115.0,1.25,False,False,0,"AM: LC at +2, +4, +6 and +7. PM: LC at +2, +3, and +6.",
+Cat_2,Cat_2_20260818_am,2026-08-18 07:00:00,am,141.0,1.25,False,False,4,"AM: LC at +2. MC at +4 & +4.5. LC at +7. PM: LC at +2, +3 and +4.",48.0
+Cat_2,Cat_2_20260818_pm,2026-08-18 19:00:00,pm,137.0,1.25,False,False,1,"AM: LC at +2. MC at +4 & +4.5. LC at +7. PM: LC at +2, +3 and +4.",87.0
+Cat_2,Cat_2_20260819_am,2026-08-19 07:00:00,am,132.0,1.25,False,False,2,"AM: SHC at +2 and +4. LC at +5 and +7. PM: LC at +2, +3 and +5.",62.0
+Cat_2,Cat_2_20260819_pm,2026-08-19 19:00:00,pm,156.0,1.25,False,False,2,"AM: SHC at +2 and +4. LC at +5 and +7. PM: LC at +2, +3 and +5.",100.0
+Cat_2,Cat_2_20260820_am,2026-08-20 07:00:00,am,117.0,1.25,False,False,2,"AM: SHC at +2 & +3. LC at +6 & +7. PM: LC at +2, +3 and +5.",59.0
+Cat_2,Cat_2_20260820_pm,2026-08-20 19:00:00,pm,143.0,1.25,False,False,1,"AM: SHC at +2 & +3. LC at +6 & +7. PM: LC at +2, +3 and +5.",96.0
+Cat_2,Cat_2_20260821_am,2026-08-21 07:00:00,am,138.0,1.25,False,False,2,"AM: SHC at +3. LC at +5, +6 and +7. PM: LC at +2, +3 and +5.",69.0
+Cat_2,Cat_2_20260821_pm,2026-08-21 19:00:00,pm,135.0,1.25,False,False,0,"AM: SHC at +3. LC at +5, +6 and +7. PM: LC at +2, +3 and +5.",
+Cat_2,Cat_2_20260822_am,2026-08-22 07:00:00,am,153.0,1.25,False,False,2,"AM: SHC at +2 and +3. LC at +4 and +8. PM: LC at +2, +3, +4 and +5.",71.0
+Cat_2,Cat_2_20260822_pm,2026-08-22 19:00:00,pm,144.0,1.25,False,False,1,"AM: SHC at +2 and +3. LC at +4 and +8. PM: LC at +2, +3, +4 and +5.",109.0
+Cat_2,Cat_2_20260823_am,2026-08-23 07:00:00,am,120.0,1.25,False,False,2,"AM: LC at +3, +4, +5 and +7. PM: SHC at +3 and +4. LC at +5 and +7.",78.0
+Cat_2,Cat_2_20260823_pm,2026-08-23 19:00:00,pm,154.0,1.25,False,False,2,"AM: LC at +3, +4, +5 and +7. PM: SHC at +3 and +4. LC at +5 and +7.",66.0
+Cat_2,Cat_2_20260824_am,2026-08-24 07:00:00,am,102.0,1.25,False,False,2,"AM: LC at +3, +4, +5 and +7. PM: LC at +3, +4 and +7.",90.0
+Cat_2,Cat_2_20260824_pm,2026-08-24 19:00:00,pm,214.0,1.25,False,False,1,"AM: LC at +3, +4, +5 and +7. PM: LC at +3, +4 and +7.",177.0
+Cat_2,Cat_2_20260825_am,2026-08-25 07:00:00,am,233.0,1.25,False,False,2,"AM: LC at +3, +5, +6 and +7. PM: LC at +3, +4 and +5.",124.0
+Cat_2,Cat_2_20260825_pm,2026-08-25 19:00:00,pm,245.0,1.25,False,False,1,"AM: LC at +3, +5, +6 and +7. PM: LC at +3, +4 and +5.",200.0
+Cat_2,Cat_2_20260826_am,2026-08-26 07:00:00,am,227.0,1.25,False,False,2,"AM: LC at +3, +5, +6 and +7. PM: LC at +2, +3 and +4.",101.0
+Cat_2,Cat_2_20260826_pm,2026-08-26 19:00:00,pm,233.0,1.25,False,False,1,"AM: LC at +3, +5, +6 and +7. PM: LC at +2, +3 and +4.",177.0
+Cat_2,Cat_2_20260827_am,2026-08-27 07:00:00,am,253.0,1.25,False,False,2,"AM: LC at +2, +5, +6 and +7. PM: LC at +3, +4 and +5.",163.0
+Cat_2,Cat_2_20260827_pm,2026-08-27 19:00:00,pm,219.0,1.5,False,False,1,"AM: LC at +2, +5, +6 and +7. PM: LC at +3, +4 and +5.",118.0
+Cat_2,Cat_2_20260828_am,2026-08-28 07:00:00,am,295.0,1.5,False,False,3,"AM: LC at +2, +4, +5 and +7. PM: LC at +3, +4, +5 and +7.",88.0
+Cat_2,Cat_2_20260828_pm,2026-08-28 19:00:00,pm,174.0,1.5,False,False,2,"AM: LC at +2, +4, +5 and +7. PM: LC at +3, +4, +5 and +7.",75.0
+Cat_2,Cat_2_20260829_am,2026-08-29 07:00:00,am,183.0,1.5,False,False,2,"AM: LC at +2, +3, +4, +5 and +6. PM: LC at +2, +4 and +5.",60.0
+Cat_2,Cat_2_20260829_pm,2026-08-29 19:00:00,pm,263.0,1.5,False,False,2,"AM: LC at +2, +3, +4, +5 and +6. PM: LC at +2, +4 and +5.",132.0
+Cat_2,Cat_2_20260830_am,2026-08-30 07:00:00,am,217.0,1.5,False,False,2,"AM: LC at +2, +3, +6 and +7. PM: LC at +2, +4 and +7.",193.0
+Cat_2,Cat_2_20260830_pm,2026-08-30 19:00:00,pm,219.0,1.5,False,False,0,"AM: LC at +2, +3, +6 and +7. PM: LC at +2, +4 and +7.",
+Cat_2,Cat_2_20260831_am,2026-08-31 07:00:00,am,252.0,1.5,False,False,2,"AM: LC at +3, +4, +6 and +7. PM: LC at +2, +3 and +5.",95.0
+Cat_2,Cat_2_20260831_pm,2026-08-31 19:00:00,pm,161.0,1.5,False,False,2,"AM: LC at +3, +4, +6 and +7. PM: LC at +2, +3 and +5.",75.0
+Cat_2,Cat_2_20260901_am,2026-09-01 07:00:00,am,121.0,1.5,False,False,2,"AM: SHC at +3. LC at +4, +5 and +6. PM: LC at +2, +3 and +5.",62.0
+Cat_2,Cat_2_20260901_pm,2026-09-01 19:00:00,pm,176.0,1.5,False,False,1,"AM: SHC at +3. LC at +4, +5 and +6. PM: LC at +2, +3 and +5.",125.0
+Cat_2,Cat_2_20260902_am,2026-09-02 07:00:00,am,93.0,1.5,False,False,2,"AM: LC at +3, +4, +5 and +7. PM: LC at +2, +3 and +4.",100.0
+Cat_2,Cat_2_20260902_pm,2026-09-02 19:00:00,pm,125.0,1.5,False,False,2,"AM: LC at +3, +4, +5 and +7. PM: LC at +2, +3 and +4.",67.0
+Cat_2,Cat_2_20260903_am,2026-09-03 07:00:00,am,90.0,1.5,False,False,3,"AM: MC at +3 and +3.5. LC at +4 and +5. PM: LC at +2, +3 and +4.",47.0
+Cat_2,Cat_2_20260903_pm,2026-09-03 19:00:00,pm,197.0,1.5,False,False,2,"AM: MC at +3 and +3.5. LC at +4 and +5. PM: LC at +2, +3 and +4.",120.0
+Cat_2,Cat_2_20260904_am,2026-09-04 07:00:00,am,88.0,1.5,False,False,2,"AM: SHC at +3 and +4. LC at +5 and +6. PM: SHC at +2, +3 and +4.",57.0
+Cat_2,Cat_2_20260904_pm,2026-09-04 19:00:00,pm,78.0,1.5,False,False,3,"AM: SHC at +3 and +4. LC at +5 and +6. PM: SHC at +2, +3 and +4.",55.0
+Cat_2,Cat_2_20260905_am,2026-09-05 07:00:00,am,204.0,1.5,False,False,3,"AM: LC at +2, +3, +4 and +6. PM: LC at +2, +3 and +4.",90.0
+Cat_2,Cat_2_20260905_pm,2026-09-05 19:00:00,pm,98.0,1.5,False,False,2,"AM: LC at +2, +3, +4 and +6. PM: LC at +2, +3 and +4.",100.0
+Cat_2,Cat_2_20260906_am,2026-09-06 07:00:00,am,163.0,1.5,False,False,2,"AM: SHC at +2 and +3. LC at +4, +6 and +8. PM: LC at +2, +3 and +5.",67.0
+Cat_2,Cat_2_20260906_pm,2026-09-06 19:00:00,pm,106.0,1.5,False,False,2,"AM: SHC at +2 and +3. LC at +4, +6 and +8. PM: LC at +2, +3 and +5.",80.0
+Cat_2,Cat_2_20260907_am,2026-09-07 07:00:00,am,78.0,1.5,False,False,3,"AM: LC at +2, +3, +4 and +6. PM: LC at +2, +3, +4 and +5.",70.0
+Cat_2,Cat_2_20260907_pm,2026-09-07 19:00:00,pm,105.0,1.5,False,False,2,"AM: LC at +2, +3, +4 and +6. PM: LC at +2, +3, +4 and +5.",88.0
+Cat_2,Cat_2_20260908_am,2026-09-08 07:00:00,am,105.0,1.5,False,False,2,"AM: LC at +2, +3, +4 and +5. PM: LC at +2, +3 and +4.",94.0
+Cat_2,Cat_2_20260908_pm,2026-09-08 19:00:00,pm,106.0,1.5,False,False,2,"AM: LC at +2, +3, +4 and +5. PM: LC at +2, +3 and +4.",70.0
+Cat_2,Cat_2_20260909_am,2026-09-09 07:00:00,am,63.0,1.5,False,False,2,"AM: SHC at +2 and +3. LC at +4 and +5. PM: LC at +2, +3 and +4.",60.0
+Cat_2,Cat_2_20260909_pm,2026-09-09 19:00:00,pm,163.0,1.5,False,False,2,"AM: SHC at +2 and +3. LC at +4 and +5. PM: LC at +2, +3 and +4.",100.0
+Cat_2,Cat_2_20260910_am,2026-09-10 07:00:00,am,86.0,1.5,False,False,3,"AM: LC at +2, +3, +4 and +6. PM: LC at +2, +3 and +4.",61.0
+Cat_2,Cat_2_20260910_pm,2026-09-10 19:00:00,pm,91.0,1.5,False,False,2,"AM: LC at +2, +3, +4 and +6. PM: LC at +2, +3 and +4.",70.0
+Cat_2,Cat_2_20260911_am,2026-09-11 07:00:00,am,67.0,1.5,False,False,3,"AM: MC at +3 and +4. LC at +5 and +6. PM: LC at +2, +3 and +4.",48.0
+Cat_2,Cat_2_20260911_pm,2026-09-11 19:00:00,pm,143.0,1.5,False,False,0,"AM: MC at +3 and +4. LC at +5 and +6. PM: LC at +2, +3 and +4.",
+Cat_2,Cat_2_20260912_am,2026-09-12 07:00:00,am,211.0,1.5,False,False,3,"AM: LC at +2 & +3. SHC at +4. LC at +5 & +6. PM: LC at +2, +3 and +4.",60.0
+Cat_2,Cat_2_20260912_pm,2026-09-12 19:00:00,pm,170.0,1.5,False,False,2,"AM: LC at +2 & +3. SHC at +4. LC at +5 & +6. PM: LC at +2, +3 and +4.",100.0
+Cat_2,Cat_2_20260913_am,2026-09-13 07:00:00,am,99.0,1.5,False,False,2,"AM: LC at +3, +4, +5 and +6. PM: LC at +2, +3 and +5.",90.0
+Cat_2,Cat_2_20260913_pm,2026-09-13 19:00:00,pm,144.0,1.5,False,False,2,"AM: LC at +3, +4, +5 and +6. PM: LC at +2, +3 and +5.",120.0
+Cat_2,Cat_2_20260914_am,2026-09-14 07:00:00,am,188.0,1.5,False,False,2,"AM: SHC at +3, +4 and +5. LC at +6. PM: SHC at +3 and +4. LC at +5.",60.0
+Cat_2,Cat_2_20260914_pm,2026-09-14 19:00:00,pm,174.0,1.5,False,False,2,"AM: SHC at +3, +4 and +5. LC at +6. PM: SHC at +3 and +4. LC at +5.",73.0
+Cat_2,Cat_2_20260915_am,2026-09-15 07:00:00,am,213.0,1.5,False,False,3,"AM: LC at +2. SHC at +4 and +5. LC at +6. PM: LC at +2, +3 and +4.",73.0
+Cat_2,Cat_2_20260915_pm,2026-09-15 19:00:00,pm,151.0,1.5,False,False,2,"AM: LC at +2. SHC at +4 and +5. LC at +6. PM: LC at +2, +3 and +4.",90.0
+Cat_2,Cat_2_20260916_am,2026-09-16 07:00:00,am,138.0,1.5,False,False,3,"AM: SHC at +2. LC at +3, +4 and +6. PM: SHC at +2 and +3. LC at +4 and +5.",53.0
+Cat_2,Cat_2_20260916_pm,2026-09-16 19:00:00,pm,145.0,1.5,False,False,3,"AM: SHC at +2. LC at +3, +4 and +6. PM: SHC at +2 and +3. LC at +4 and +5.",63.0
+Cat_2,Cat_2_20260917_am,2026-09-17 07:00:00,am,198.0,1.5,False,False,2,AM: SHC at +3 and +4. LC at +5 and +6. PM: SHC at +2. LC at +3 and +4.,63.0
+Cat_2,Cat_2_20260917_pm,2026-09-17 19:00:00,pm,116.0,1.5,False,False,0,AM: SHC at +3 and +4. LC at +5 and +6. PM: SHC at +2. LC at +3 and +4.,
+Cat_2,Cat_2_20260918_am,2026-09-18 07:00:00,am,154.0,1.5,False,False,2,"AM: SHC at +2, +3 and +4. LC at +5. PM: SHC at +1. LC at +2, +3 and +4.",69.0
+Cat_2,Cat_2_20260918_pm,2026-09-18 19:00:00,pm,101.0,1.5,False,False,1,"AM: SHC at +2, +3 and +4. LC at +5. PM: SHC at +1. LC at +2, +3 and +4.",105.0
+Cat_2,Cat_2_20260919_am,2026-09-19 07:00:00,am,81.0,1.5,False,False,2,AM: SHC at +2 and +3. LC at +4 and +5. PM: SHC at +2 and +3. LC at +4.,67.0
+Cat_2,Cat_2_20260919_pm,2026-09-19 19:00:00,pm,121.0,1.5,False,False,3,AM: SHC at +2 and +3. LC at +4 and +5. PM: SHC at +2 and +3. LC at +4.,61.0
+Cat_2,Cat_2_20260920_am,2026-09-20 07:00:00,am,185.0,1.5,False,False,2,"AM: LC at +1, +2, +3 and +6. PM: SHC at +1, +2 and +3. LC at +4.",90.0
+Cat_2,Cat_2_20260920_pm,2026-09-20 19:00:00,pm,101.0,1.5,False,False,2,"AM: LC at +1, +2, +3 and +6. PM: SHC at +1, +2 and +3. LC at +4.",51.0
+Cat_2,Cat_2_20260921_am,2026-09-21 07:00:00,am,65.0,1.5,False,False,1,"AM: LC at +2,",78.0
+Cat_3,Cat_3_20260101_am,2026-01-01 07:00:00,am,499.0,2.75,False,False,1,,188.0
+Cat_3,Cat_3_20260101_pm,2026-01-01 19:00:00,pm,178.0,2.75,False,False,1,,167.0
+Cat_3,Cat_3_20260102_am,2026-01-02 07:00:00,am,369.0,2.75,False,False,1,,242.0
+Cat_3,Cat_3_20260102_pm,2026-01-02 19:00:00,pm,187.0,2.75,False,False,1,,166.0
+Cat_3,Cat_3_20260103_am,2026-01-03 07:00:00,am,188.0,2.75,False,False,1,,66.0
+Cat_3,Cat_3_20260103_pm,2026-01-03 19:00:00,pm,364.0,2.5,False,False,1,,199.0
+Cat_3,Cat_3_20260104_am,2026-01-04 07:00:00,am,600.0,2.5,False,False,1,,387.0
+Cat_3,Cat_3_20260104_pm,2026-01-04 19:00:00,pm,417.0,2.5,False,False,1,,143.0
+Cat_3,Cat_3_20260105_am,2026-01-05 07:00:00,am,267.0,2.5,False,False,1,,220.0
+Cat_3,Cat_3_20260105_pm,2026-01-05 19:00:00,pm,451.0,2.5,False,False,1,,224.0
+Cat_3,Cat_3_20260106_am,2026-01-06 07:00:00,am,447.0,2.5,False,False,1,,185.0
+Cat_3,Cat_3_20260106_pm,2026-01-06 19:00:00,pm,560.0,2.5,False,False,1,,260.0
+Cat_3,Cat_3_20260107_am,2026-01-07 07:00:00,am,200.0,2.5,False,False,1,,87.0
+Cat_3,Cat_3_20260107_pm,2026-01-07 19:00:00,pm,396.0,2.5,False,False,1,,221.0
+Cat_3,Cat_3_20260108_am,2026-01-08 07:00:00,am,364.0,2.5,False,False,1,,186.0
+Cat_3,Cat_3_20260108_pm,2026-01-08 19:00:00,pm,115.0,,False,False,0,,
+Cat_3,Cat_3_20260109_am,2026-01-09 07:00:00,am,541.0,2.25,False,False,1,,295.0
+Cat_3,Cat_3_20260109_pm,2026-01-09 19:00:00,pm,347.0,2.25,False,False,1,,224.0
+Cat_3,Cat_3_20260110_am,2026-01-10 07:00:00,am,179.0,2.25,False,False,1,,66.0
+Cat_3,Cat_3_20260110_pm,2026-01-10 19:00:00,pm,530.0,2.25,False,False,1,,365.0
+Cat_3,Cat_3_20260111_am,2026-01-11 07:00:00,am,388.0,2.25,False,False,1,,134.0
+Cat_3,Cat_3_20260111_pm,2026-01-11 19:00:00,pm,147.0,2.25,False,False,1,,263.0
+Cat_3,Cat_3_20260112_am,2026-01-12 07:00:00,am,313.0,2.25,False,False,1,,183.0
+Cat_3,Cat_3_20260112_pm,2026-01-12 19:00:00,pm,285.0,2.25,False,False,1,,244.0
+Cat_3,Cat_3_20260113_am,2026-01-13 07:00:00,am,371.0,2.25,False,False,1,,202.0
+Cat_3,Cat_3_20260113_pm,2026-01-13 19:00:00,pm,237.0,2.25,False,False,1,,92.0
+Cat_3,Cat_3_20260114_am,2026-01-14 07:00:00,am,517.0,2.25,False,True,1,,243.0
+Cat_3,Cat_3_20260114_pm,2026-01-14 19:00:00,pm,531.0,2.25,False,False,1,,213.0
+Cat_3,Cat_3_20260115_am,2026-01-15 07:00:00,am,259.0,2.25,False,False,1,,86.0
+Cat_3,Cat_3_20260115_pm,2026-01-15 19:00:00,pm,314.0,2.25,False,False,1,,124.0
+Cat_3,Cat_3_20260116_am,2026-01-16 07:00:00,am,596.0,2.25,False,False,1,,361.0
+Cat_3,Cat_3_20260116_pm,2026-01-16 19:00:00,pm,393.0,2.25,False,False,1,,143.0
+Cat_3,Cat_3_20260117_am,2026-01-17 07:00:00,am,376.0,2.25,False,False,1,,317.0
+Cat_3,Cat_3_20260117_pm,2026-01-17 19:00:00,pm,364.0,2.25,False,False,1,,199.0
+Cat_3,Cat_3_20260118_am,2026-01-18 07:00:00,am,261.0,2.25,False,False,1,,111.0
+Cat_3,Cat_3_20260118_pm,2026-01-18 19:00:00,pm,590.0,2.25,False,False,1,,243.0
+Cat_3,Cat_3_20260119_am,2026-01-19 07:00:00,am,236.0,2.26,False,False,1,,84.0
+Cat_3,Cat_3_20260119_pm,2026-01-19 19:00:00,pm,544.0,2.25,False,False,1,,220.0
+Cat_3,Cat_3_20260120_am,2026-01-20 07:00:00,am,281.0,2.25,False,False,1,,163.0
+Cat_3,Cat_3_20260120_pm,2026-01-20 19:00:00,pm,399.0,2.25,False,False,1,,336.0
+Cat_3,Cat_3_20260121_am,2026-01-21 07:00:00,am,370.0,2.25,False,False,1,,124.0
+Cat_3,Cat_3_20260121_pm,2026-01-21 19:00:00,pm,207.0,2.25,False,False,1,,72.0
+Cat_3,Cat_3_20260122_am,2026-01-22 07:00:00,am,410.0,2.25,False,False,1,,181.0
+Cat_3,Cat_3_20260122_pm,2026-01-22 19:00:00,pm,503.0,2.25,False,False,1,,203.0
+Cat_3,Cat_3_20260123_am,2026-01-23 07:00:00,am,411.0,2.25,False,False,1,,185.0
+Cat_3,Cat_3_20260123_pm,2026-01-23 19:00:00,pm,530.0,2.25,False,False,1,,206.0
+Cat_3,Cat_3_20260124_am,2026-01-24 07:00:00,am,578.0,2.25,False,False,1,,263.0
+Cat_3,Cat_3_20260124_pm,2026-01-24 19:00:00,pm,356.0,2.25,False,False,1,,171.0
+Cat_3,Cat_3_20260125_am,2026-01-25 07:00:00,am,316.0,2.25,False,False,1,,174.0
+Cat_3,Cat_3_20260125_pm,2026-01-25 19:00:00,pm,427.0,2.25,False,False,1,,250.0
+Cat_3,Cat_3_20260126_am,2026-01-26 07:00:00,am,275.0,2.25,False,False,1,,210.0
+Cat_3,Cat_3_20260126_pm,2026-01-26 19:00:00,pm,345.0,2.25,False,False,1,,198.0
+Cat_3,Cat_3_20260127_am,2026-01-27 07:00:00,am,375.0,2.25,False,False,1,,144.0
+Cat_3,Cat_3_20260127_pm,2026-01-27 19:00:00,pm,483.0,2.25,False,False,1,,226.0
+Cat_3,Cat_3_20260128_am,2026-01-28 07:00:00,am,275.0,2.25,False,False,1,,390.0
+Cat_3,Cat_3_20260128_pm,2026-01-28 19:00:00,pm,484.0,2.5,False,False,1,,268.0
+Cat_3,Cat_3_20260129_am,2026-01-29 07:00:00,am,317.0,2.5,False,False,1,,184.0
+Cat_3,Cat_3_20260129_pm,2026-01-29 19:00:00,pm,85.0,0.0,True,False,0,,
+Cat_3,Cat_3_20260130_am,2026-01-30 07:00:00,am,499.0,2.5,False,False,1,,317.0
+Cat_3,Cat_3_20260130_pm,2026-01-30 19:00:00,pm,295.0,2.5,False,False,1,,98.0
+Cat_3,Cat_3_20260131_am,2026-01-31 07:00:00,am,394.0,2.5,False,False,1,,124.0
+Cat_3,Cat_3_20260131_pm,2026-01-31 19:00:00,pm,281.0,2.5,False,False,1,,258.0
+Cat_3,Cat_3_20260201_am,2026-02-01 07:00:00,am,199.0,2.5,False,False,1,,81.0
+Cat_3,Cat_3_20260201_pm,2026-02-01 19:00:00,pm,231.0,2.5,False,False,1,,155.0
+Cat_3,Cat_3_20260202_am,2026-02-02 07:00:00,am,540.0,2.5,False,False,1,,111.0
+Cat_3,Cat_3_20260202_pm,2026-02-02 19:00:00,pm,247.0,2.5,False,False,1,,189.0
+Cat_3,Cat_3_20260203_am,2026-02-03 07:00:00,am,267.0,2.5,False,False,1,,94.0
+Cat_3,Cat_3_20260203_pm,2026-02-03 19:00:00,pm,555.0,2.5,False,False,1,,221.0
+Cat_3,Cat_3_20260204_am,2026-02-04 07:00:00,am,367.0,2.5,False,False,1,,238.0
+Cat_3,Cat_3_20260204_pm,2026-02-04 19:00:00,pm,509.0,2.5,False,False,1,,264.0
+Cat_3,Cat_3_20260205_am,2026-02-05 07:00:00,am,363.0,2.5,False,False,1,,144.0
+Cat_3,Cat_3_20260205_pm,2026-02-05 19:00:00,pm,585.0,2.5,False,False,1,,298.0
+Cat_3,Cat_3_20260206_am,2026-02-06 07:00:00,am,307.0,2.5,False,False,1,,178.0
+Cat_3,Cat_3_20260206_pm,2026-02-06 19:00:00,pm,231.0,2.5,False,False,1,,101.0
+Cat_3,Cat_3_20260207_am,2026-02-07 07:00:00,am,391.0,2.5,False,False,1,,150.0
+Cat_3,Cat_3_20260207_pm,2026-02-07 19:00:00,pm,585.0,2.5,False,False,1,,248.0
+Cat_3,Cat_3_20260208_am,2026-02-08 07:00:00,am,444.0,2.5,False,False,1,,242.0
+Cat_3,Cat_3_20260208_pm,2026-02-08 19:00:00,pm,414.0,2.5,False,False,1,,195.0
+Cat_3,Cat_3_20260209_am,2026-02-09 07:00:00,am,394.0,2.5,False,False,1,,228.0
+Cat_3,Cat_3_20260209_pm,2026-02-09 19:00:00,pm,595.0,2.5,False,False,1,,223.0
+Cat_3,Cat_3_20260210_am,2026-02-10 07:00:00,am,412.0,2.5,False,False,1,,236.0
+Cat_3,Cat_3_20260210_pm,2026-02-10 19:00:00,pm,295.0,2.5,False,False,1,,120.0
+Cat_3,Cat_3_20260211_am,2026-02-11 07:00:00,am,347.0,2.5,False,False,1,,178.0
+Cat_3,Cat_3_20260211_pm,2026-02-11 19:00:00,pm,535.0,2.5,False,False,1,,274.0
+Cat_3,Cat_3_20260212_am,2026-02-12 07:00:00,am,418.0,2.5,False,False,1,,275.0
+Cat_3,Cat_3_20260212_pm,2026-02-12 19:00:00,pm,287.0,2.75,False,False,1,,225.0
+Cat_3,Cat_3_20260213_am,2026-02-13 07:00:00,am,343.0,2.75,False,False,1,,144.0
+Cat_3,Cat_3_20260213_pm,2026-02-13 19:00:00,pm,126.0,0.0,True,False,0,,
+Cat_3,Cat_3_20260214_am,2026-02-14 07:00:00,am,513.0,2.75,False,False,1,,251.0
+Cat_3,Cat_3_20260214_pm,2026-02-14 19:00:00,pm,226.0,2.75,False,False,1,,84.0
+Cat_3,Cat_3_20260215_am,2026-02-15 07:00:00,am,346.0,2.75,False,False,1,,248.0
+Cat_3,Cat_3_20260215_pm,2026-02-15 19:00:00,pm,320.0,2.76,False,False,1,,199.0
+Cat_3,Cat_3_20260216_am,2026-02-16 07:00:00,am,409.0,2.75,False,False,1,,243.0
+Cat_3,Cat_3_20260216_pm,2026-02-16 19:00:00,pm,346.0,2.75,False,False,1,,250.0
+Cat_3,Cat_3_20260217_am,2026-02-17 07:00:00,am,503.0,2.75,False,False,1,,263.0
+Cat_3,Cat_3_20260217_pm,2026-02-17 19:00:00,pm,464.0,2.75,False,False,1,,284.0
+Cat_3,Cat_3_20260218_am,2026-02-18 07:00:00,am,343.0,2.75,False,False,1,,75.0
+Cat_3,Cat_3_20260218_pm,2026-02-18 19:00:00,pm,585.0,2.75,False,False,1,,285.0
+Cat_3,Cat_3_20260219_am,2026-02-19 07:00:00,am,535.0,2.5,False,False,1,,245.0
+Cat_3,Cat_3_20260219_pm,2026-02-19 19:00:00,pm,435.0,2.5,False,False,1,,274.0
+Cat_3,Cat_3_20260220_am,2026-02-20 07:00:00,am,461.0,2.5,False,False,1,,234.0
+Cat_3,Cat_3_20260220_pm,2026-02-20 19:00:00,pm,329.0,2.5,False,False,1,,201.0
+Cat_3,Cat_3_20260221_am,2026-02-21 07:00:00,am,326.0,2.5,False,False,1,,122.0
+Cat_3,Cat_3_20260221_pm,2026-02-21 19:00:00,pm,573.0,2.5,False,False,1,,299.0
+Cat_3,Cat_3_20260222_am,2026-02-22 07:00:00,am,379.0,2.5,False,False,1,,151.0
+Cat_3,Cat_3_20260222_pm,2026-02-22 19:00:00,pm,570.0,2.5,False,False,1,,240.0
+Cat_3,Cat_3_20260223_am,2026-02-23 07:00:00,am,553.0,2.5,False,False,1,,208.0
+Cat_3,Cat_3_20260223_pm,2026-02-23 19:00:00,pm,538.0,2.5,False,False,1,,256.0
+Cat_3,Cat_3_20260224_am,2026-02-24 07:00:00,am,343.0,2.5,False,False,1,,145.0
+Cat_3,Cat_3_20260224_pm,2026-02-24 19:00:00,pm,314.0,2.5,False,False,1,,169.0
+Cat_3,Cat_3_20260225_am,2026-02-25 07:00:00,am,591.0,2.5,False,False,1,,249.0
+Cat_3,Cat_3_20260225_pm,2026-02-25 19:00:00,pm,558.0,2.5,False,False,1,,252.0
+Cat_3,Cat_3_20260226_am,2026-02-26 07:00:00,am,453.0,2.5,False,False,1,,164.0
+Cat_3,Cat_3_20260226_pm,2026-02-26 19:00:00,pm,314.0,2.5,False,False,1,,234.0
+Cat_3,Cat_3_20260227_am,2026-02-27 07:00:00,am,403.0,2.5,False,False,1,,247.0
+Cat_3,Cat_3_20260227_pm,2026-02-27 19:00:00,pm,321.0,2.5,False,False,1,,221.0
+Cat_3,Cat_3_20260228_am,2026-02-28 07:00:00,am,331.0,2.5,False,False,1,,100.0
+Cat_3,Cat_3_20260228_pm,2026-02-28 19:00:00,pm,583.0,2.5,False,False,1,,247.0
+Cat_3,Cat_3_20260301_am,2026-03-01 07:00:00,am,575.0,2.5,False,False,1,,282.0
+Cat_3,Cat_3_20260301_pm,2026-03-01 19:00:00,pm,568.0,2.5,False,False,1,,260.0
+Cat_3,Cat_3_20260302_am,2026-03-02 07:00:00,am,487.0,2.5,False,False,1,,199.0
+Cat_3,Cat_3_20260302_pm,2026-03-02 19:00:00,pm,583.0,2.5,False,False,1,,236.0
+Cat_3,Cat_3_20260303_am,2026-03-03 07:00:00,am,575.0,2.5,False,False,1,,250.0
+Cat_3,Cat_3_20260303_pm,2026-03-03 19:00:00,pm,290.0,2.5,False,False,2,,271.0
+Cat_3,Cat_3_20260304_am,2026-03-04 07:00:00,am,365.0,2.5,False,False,1,,259.0
+Cat_3,Cat_3_20260304_pm,2026-03-04 19:00:00,pm,301.0,2.5,False,False,1,,270.0
+Cat_3,Cat_3_20260305_am,2026-03-05 07:00:00,am,329.0,2.5,False,False,1,,139.0
+Cat_3,Cat_3_20260305_pm,2026-03-05 19:00:00,pm,430.0,2.5,False,False,1,,212.0
+Cat_3,Cat_3_20260306_am,2026-03-06 07:00:00,am,507.0,2.5,False,False,1,,250.0
+Cat_3,Cat_3_20260306_pm,2026-03-06 19:00:00,pm,575.0,2.5,False,False,1,,211.0
+Cat_3,Cat_3_20260307_am,2026-03-07 07:00:00,am,597.0,2.5,False,False,1,,280.0
+Cat_3,Cat_3_20260307_pm,2026-03-07 19:00:00,pm,291.0,2.5,False,False,1,,171.0
+Cat_3,Cat_3_20260308_am,2026-03-08 07:00:00,am,384.0,2.5,False,False,1,,271.0
+Cat_3,Cat_3_20260308_pm,2026-03-08 19:00:00,pm,510.0,2.5,False,False,1,,222.0
+Cat_3,Cat_3_20260309_am,2026-03-09 07:00:00,am,600.0,2.5,False,False,1,,309.0
+Cat_3,Cat_3_20260309_pm,2026-03-09 19:00:00,pm,268.0,2.5,False,False,1,,156.0
+Cat_3,Cat_3_20260310_am,2026-03-10 07:00:00,am,387.0,2.5,False,False,1,,212.0
+Cat_3,Cat_3_20260310_pm,2026-03-10 19:00:00,pm,600.0,2.5,False,True,0,,
+Cat_3,Cat_3_20260311_am,2026-03-11 07:00:00,am,510.0,2.7,False,False,1,,325.0
+Cat_3,Cat_3_20260311_pm,2026-03-11 19:00:00,pm,,2.75,False,False,1,,229.0
+Cat_3,Cat_3_20260312_am,2026-03-12 07:00:00,am,280.0,2.75,False,False,1,,176.0
+Cat_3,Cat_3_20260312_pm,2026-03-12 19:00:00,pm,600.0,2.75,False,False,1,,176.0
+Cat_3,Cat_3_20260313_am,2026-03-13 07:00:00,am,579.0,2.75,False,False,1,,208.0
+Cat_3,Cat_3_20260313_pm,2026-03-13 19:00:00,pm,584.0,2.75,False,False,0,,
+Cat_3,Cat_3_20260314_am,2026-03-14 07:00:00,am,544.0,2.75,False,False,1,,178.0
+Cat_3,Cat_3_20260314_pm,2026-03-14 19:00:00,pm,578.0,2.75,False,False,1,,322.0
+Cat_3,Cat_3_20260315_am,2026-03-15 07:00:00,am,345.0,2.75,False,False,1,,271.0
+Cat_3,Cat_3_20260315_pm,2026-03-15 19:00:00,pm,362.0,2.75,False,False,1,,164.0
+Cat_3,Cat_3_20260316_am,2026-03-16 07:00:00,am,433.0,2.75,False,False,1,,221.0
+Cat_3,Cat_3_20260316_pm,2026-03-16 19:00:00,pm,583.0,2.75,False,False,1,,240.0
+Cat_3,Cat_3_20260317_am,2026-03-17 07:00:00,am,492.0,2.75,False,False,1,,167.0
+Cat_3,Cat_3_20260317_pm,2026-03-17 19:00:00,pm,600.0,2.75,False,False,1,,260.0
+Cat_3,Cat_3_20260318_am,2026-03-18 07:00:00,am,372.0,2.75,False,False,1,,171.0
+Cat_3,Cat_3_20260318_pm,2026-03-18 19:00:00,pm,600.0,2.75,False,False,1,,280.0
+Cat_3,Cat_3_20260319_am,2026-03-19 07:00:00,am,327.0,2.75,False,False,1,,261.0
+Cat_3,Cat_3_20260319_pm,2026-03-19 19:00:00,pm,376.0,2.75,False,False,1,,355.0
+Cat_3,Cat_3_20260320_am,2026-03-20 07:00:00,am,424.0,2.75,False,False,1,,214.0
+Cat_3,Cat_3_20260320_pm,2026-03-20 19:00:00,pm,272.0,2.75,False,False,1,,239.0
+Cat_3,Cat_3_20260321_am,2026-03-21 07:00:00,am,364.0,2.75,False,False,1,,247.0
+Cat_3,Cat_3_20260321_pm,2026-03-21 19:00:00,pm,355.0,2.75,False,False,1,,212.0
+Cat_3,Cat_3_20260322_am,2026-03-22 07:00:00,am,435.0,2.75,False,False,1,,314.0
+Cat_3,Cat_3_20260322_pm,2026-03-22 19:00:00,pm,343.0,2.75,False,False,1,,235.0
+Cat_3,Cat_3_20260323_am,2026-03-23 07:00:00,am,343.0,2.75,False,False,1,,165.0
+Cat_3,Cat_3_20260323_pm,2026-03-23 19:00:00,pm,445.0,2.75,False,False,1,,211.0
+Cat_3,Cat_3_20260324_am,2026-03-24 07:00:00,am,592.0,2.75,False,False,1,,239.0
+Cat_3,Cat_3_20260324_pm,2026-03-24 19:00:00,pm,515.0,2.75,False,False,1,,280.0
+Cat_3,Cat_3_20260325_am,2026-03-25 07:00:00,am,317.0,2.75,False,False,1,,164.0
+Cat_3,Cat_3_20260325_pm,2026-03-25 19:00:00,pm,317.0,2.75,False,False,1,,189.0
+Cat_3,Cat_3_20260326_am,2026-03-26 07:00:00,am,316.0,2.75,False,False,1,,189.0
+Cat_3,Cat_3_20260326_pm,2026-03-26 19:00:00,pm,600.0,2.75,False,False,1,,225.0
+Cat_3,Cat_3_20260327_am,2026-03-27 07:00:00,am,416.0,2.75,False,False,1,,241.0
+Cat_3,Cat_3_20260327_pm,2026-03-27 19:00:00,pm,282.0,2.75,False,False,1,,262.0
+Cat_3,Cat_3_20260328_am,2026-03-28 07:00:00,am,379.0,2.75,False,False,1,,228.0
+Cat_3,Cat_3_20260328_pm,2026-03-28 19:00:00,pm,290.0,2.75,False,False,1,,134.0
+Cat_3,Cat_3_20260329_am,2026-03-29 07:00:00,am,523.0,2.75,False,False,1,,190.0
+Cat_3,Cat_3_20260329_pm,2026-03-29 19:00:00,pm,600.0,2.75,False,False,1,,432.0
+Cat_3,Cat_3_20260330_am,2026-03-30 07:00:00,am,423.0,2.75,False,False,1,,270.0
+Cat_3,Cat_3_20260330_pm,2026-03-30 19:00:00,pm,190.0,2.75,False,False,1,,145.0
+Cat_3,Cat_3_20260331_am,2026-03-31 07:00:00,am,268.0,2.75,False,False,1,,150.0
+Cat_3,Cat_3_20260331_pm,2026-03-31 19:00:00,pm,300.0,2.75,False,False,1,,150.0
+Cat_3,Cat_3_20260401_am,2026-04-01 07:00:00,am,535.0,2.75,False,False,1,,223.0
+Cat_3,Cat_3_20260401_pm,2026-04-01 19:00:00,pm,593.0,2.75,False,False,1,,191.0
+Cat_3,Cat_3_20260402_am,2026-04-02 07:00:00,am,550.0,2.75,False,False,1,,236.0
+Cat_3,Cat_3_20260402_pm,2026-04-02 19:00:00,pm,540.0,2.75,False,False,1,,313.0
+Cat_3,Cat_3_20260403_am,2026-04-03 07:00:00,am,301.0,2.75,False,False,1,,82.0
+Cat_3,Cat_3_20260403_pm,2026-04-03 19:00:00,pm,413.0,2.75,False,False,1,,283.0
+Cat_3,Cat_3_20260404_am,2026-04-04 07:00:00,am,599.0,2.75,False,False,1,,235.0
+Cat_3,Cat_3_20260404_pm,2026-04-04 19:00:00,pm,389.0,2.75,False,False,1,,233.0
+Cat_3,Cat_3_20260405_am,2026-04-05 07:00:00,am,398.0,2.75,False,False,1,,186.0
+Cat_3,Cat_3_20260405_pm,2026-04-05 19:00:00,pm,600.0,2.75,False,False,1,,216.0
+Cat_3,Cat_3_20260406_am,2026-04-06 07:00:00,am,585.0,2.75,False,False,1,,234.0
+Cat_3,Cat_3_20260406_pm,2026-04-06 19:00:00,pm,435.0,2.75,False,False,1,,165.0
+Cat_3,Cat_3_20260407_am,2026-04-07 07:00:00,am,571.0,2.75,False,False,1,,261.0
+Cat_3,Cat_3_20260407_pm,2026-04-07 19:00:00,pm,364.0,2.75,False,False,1,,226.0
+Cat_3,Cat_3_20260408_am,2026-04-08 07:00:00,am,363.0,2.75,False,False,1,,228.0
+Cat_3,Cat_3_20260408_pm,2026-04-08 19:00:00,pm,476.0,2.75,False,False,1,,280.0
+Cat_3,Cat_3_20260409_am,2026-04-09 07:00:00,am,313.0,2.75,False,False,1,,160.0
+Cat_3,Cat_3_20260409_pm,2026-04-09 19:00:00,pm,561.0,2.75,False,False,1,,308.0
+Cat_3,Cat_3_20260410_am,2026-04-10 07:00:00,am,410.0,2.75,False,False,1,,165.0
+Cat_3,Cat_3_20260410_pm,2026-04-10 19:00:00,pm,600.0,2.75,False,False,1,,221.0
+Cat_3,Cat_3_20260411_am,2026-04-11 07:00:00,am,343.0,2.75,False,False,1,,209.0
+Cat_3,Cat_3_20260411_pm,2026-04-11 19:00:00,pm,308.0,2.75,False,False,1,,145.0
+Cat_3,Cat_3_20260412_am,2026-04-12 07:00:00,am,447.0,2.75,False,False,1,,253.0
+Cat_3,Cat_3_20260412_pm,2026-04-12 19:00:00,pm,364.0,2.75,False,False,1,,134.0
+Cat_3,Cat_3_20260413_am,2026-04-13 07:00:00,am,525.0,2.75,False,False,1,,208.0
+Cat_3,Cat_3_20260413_pm,2026-04-13 19:00:00,pm,550.0,2.75,False,False,1,,164.0
+Cat_3,Cat_3_20260414_am,2026-04-14 07:00:00,am,543.0,2.75,False,False,1,,290.0
+Cat_3,Cat_3_20260414_pm,2026-04-14 19:00:00,pm,167.0,2.75,False,False,1,,174.0
+Cat_3,Cat_3_20260415_am,2026-04-15 07:00:00,am,218.0,2.75,False,False,1,,194.0
+Cat_3,Cat_3_20260415_pm,2026-04-15 19:00:00,pm,384.0,2.75,False,False,1,,174.0
+Cat_3,Cat_3_20260416_am,2026-04-16 07:00:00,am,537.0,2.75,False,False,1,,238.0
+Cat_3,Cat_3_20260416_pm,2026-04-16 19:00:00,pm,266.0,2.75,False,False,1,,98.0
+Cat_3,Cat_3_20260417_am,2026-04-17 07:00:00,am,515.0,2.75,False,False,1,,238.0
+Cat_3,Cat_3_20260417_pm,2026-04-17 19:00:00,pm,356.0,2.75,False,False,1,,199.0
+Cat_3,Cat_3_20260418_am,2026-04-18 07:00:00,am,298.0,2.75,False,False,1,,95.0
+Cat_3,Cat_3_20260418_pm,2026-04-18 19:00:00,pm,599.0,2.75,False,False,1,,238.0
+Cat_3,Cat_3_20260419_am,2026-04-19 07:00:00,am,342.0,2.75,False,False,1,,133.0
+Cat_3,Cat_3_20260419_pm,2026-04-19 19:00:00,pm,285.0,2.75,False,False,1,,175.0
+Cat_3,Cat_3_20260420_am,2026-04-20 07:00:00,am,474.0,2.74,False,False,1,,270.0
+Cat_3,Cat_3_20260420_pm,2026-04-20 19:00:00,pm,316.0,2.75,False,False,1,,129.0
+Cat_3,Cat_3_20260421_am,2026-04-21 07:00:00,am,556.0,2.75,False,False,1,,295.0
+Cat_3,Cat_3_20260421_pm,2026-04-21 19:00:00,pm,326.0,2.75,False,False,1,,94.0
+Cat_3,Cat_3_20260422_am,2026-04-22 07:00:00,am,434.0,2.75,False,False,1,,199.0
+Cat_3,Cat_3_20260422_pm,2026-04-22 19:00:00,pm,492.0,2.75,False,False,1,,247.0
+Cat_3,Cat_3_20260423_am,2026-04-23 07:00:00,am,175.0,2.75,False,False,1,,78.0
+Cat_3,Cat_3_20260423_pm,2026-04-23 19:00:00,pm,399.0,2.75,False,False,1,,118.0
+Cat_3,Cat_3_20260424_am,2026-04-24 07:00:00,am,600.0,2.5,False,False,1,,258.0
+Cat_3,Cat_3_20260424_pm,2026-04-24 19:00:00,pm,235.0,2.5,False,False,1,,223.0
+Cat_3,Cat_3_20260425_am,2026-04-25 07:00:00,am,341.0,2.5,False,False,1,,226.0
+Cat_3,Cat_3_20260425_pm,2026-04-25 19:00:00,pm,274.0,2.5,False,False,1,,205.0
+Cat_3,Cat_3_20260426_am,2026-04-26 07:00:00,am,304.0,2.5,False,False,1,,137.0
+Cat_3,Cat_3_20260426_pm,2026-04-26 19:00:00,pm,284.0,2.5,False,False,1,,224.0
+Cat_3,Cat_3_20260427_am,2026-04-27 07:00:00,am,374.0,2.5,False,False,1,,116.0
+Cat_3,Cat_3_20260427_pm,2026-04-27 19:00:00,pm,600.0,2.5,False,False,1,,226.0
+Cat_3,Cat_3_20260428_am,2026-04-28 07:00:00,am,481.0,2.5,False,False,1,,236.0
+Cat_3,Cat_3_20260428_pm,2026-04-28 19:00:00,pm,261.0,2.5,False,False,1,,205.0
+Cat_3,Cat_3_20260429_am,2026-04-29 07:00:00,am,271.0,2.5,False,False,1,,151.0
+Cat_3,Cat_3_20260429_pm,2026-04-29 19:00:00,pm,589.0,2.5,False,False,1,,312.0
+Cat_3,Cat_3_20260430_am,2026-04-30 07:00:00,am,311.0,2.5,False,False,1,,138.0
+Cat_3,Cat_3_20260430_pm,2026-04-30 19:00:00,pm,518.0,2.5,False,False,1,,221.0
+Cat_3,Cat_3_20260501_am,2026-05-01 07:00:00,am,600.0,2.5,False,False,1,,260.0
+Cat_3,Cat_3_20260501_pm,2026-05-01 19:00:00,pm,360.0,2.5,False,False,1,,211.0
+Cat_3,Cat_3_20260502_am,2026-05-02 07:00:00,am,239.0,2.5,False,False,1,,152.0
+Cat_3,Cat_3_20260502_pm,2026-05-02 19:00:00,pm,527.0,2.5,False,False,1,,221.0
+Cat_3,Cat_3_20260503_am,2026-05-03 07:00:00,am,539.0,2.5,False,False,1,,177.0
+Cat_3,Cat_3_20260503_pm,2026-05-03 19:00:00,pm,600.0,2.5,False,False,1,,288.0
+Cat_3,Cat_3_20260504_am,2026-05-04 07:00:00,am,399.0,2.5,False,False,1,,205.0
+Cat_3,Cat_3_20260504_pm,2026-05-04 19:00:00,pm,544.0,2.5,False,False,1,,289.0
+Cat_3,Cat_3_20260505_am,2026-05-05 07:00:00,am,244.0,2.5,False,False,1,,114.0
+Cat_3,Cat_3_20260505_pm,2026-05-05 19:00:00,pm,597.0,2.5,False,False,1,,260.0
+Cat_3,Cat_3_20260506_am,2026-05-06 07:00:00,am,376.0,2.5,False,False,1,,173.0
+Cat_3,Cat_3_20260506_pm,2026-05-06 19:00:00,pm,597.0,2.5,False,False,1,,199.0
+Cat_3,Cat_3_20260507_am,2026-05-07 07:00:00,am,600.0,2.5,False,False,1,,271.0
+Cat_3,Cat_3_20260507_pm,2026-05-07 19:00:00,pm,522.0,2.5,False,False,1,,269.0
+Cat_3,Cat_3_20260508_am,2026-05-08 07:00:00,am,389.0,2.5,False,False,1,,265.0
+Cat_3,Cat_3_20260508_pm,2026-05-08 19:00:00,pm,328.0,2.5,False,False,1,,233.0
+Cat_3,Cat_3_20260509_am,2026-05-09 07:00:00,am,368.0,2.5,False,False,1,,185.0
+Cat_3,Cat_3_20260509_pm,2026-05-09 19:00:00,pm,370.0,2.5,False,False,1,,240.0
+Cat_3,Cat_3_20260510_am,2026-05-10 07:00:00,am,517.0,2.5,False,False,1,,241.0
+Cat_3,Cat_3_20260510_pm,2026-05-10 19:00:00,pm,558.0,2.5,False,False,1,,316.0
+Cat_3,Cat_3_20260511_am,2026-05-11 07:00:00,am,398.0,2.5,False,False,1,,253.0
+Cat_3,Cat_3_20260511_pm,2026-05-11 19:00:00,pm,283.0,2.5,False,False,1,,81.0
+Cat_3,Cat_3_20260512_am,2026-05-12 07:00:00,am,600.0,2.5,False,False,1,,261.0
+Cat_3,Cat_3_20260512_pm,2026-05-12 19:00:00,pm,582.0,2.5,False,False,1,,261.0
+Cat_3,Cat_3_20260513_am,2026-05-13 07:00:00,am,531.0,2.5,False,False,1,,259.0
+Cat_3,Cat_3_20260513_pm,2026-05-13 19:00:00,pm,437.0,2.5,False,False,1,,243.0
+Cat_3,Cat_3_20260514_am,2026-05-14 07:00:00,am,339.0,2.5,False,False,1,,177.0
+Cat_3,Cat_3_20260514_pm,2026-05-14 19:00:00,pm,573.0,2.5,False,False,0,,
+Cat_3,Cat_3_20260515_am,2026-05-15 07:00:00,am,387.0,2.5,False,False,1,,268.0
+Cat_3,Cat_3_20260515_pm,2026-05-15 19:00:00,pm,343.0,2.5,False,False,1,,152.0
+Cat_3,Cat_3_20260516_am,2026-05-16 07:00:00,am,408.0,2.5,False,False,1,,297.0
+Cat_3,Cat_3_20260516_pm,2026-05-16 19:00:00,pm,245.0,2.5,False,False,1,,155.0
+Cat_3,Cat_3_20260517_am,2026-05-17 07:00:00,am,327.0,2.5,False,False,1,,213.0
+Cat_3,Cat_3_20260517_pm,2026-05-17 19:00:00,pm,386.0,2.5,False,False,1,,177.0
+Cat_3,Cat_3_20260518_am,2026-05-18 07:00:00,am,600.0,2.5,False,False,1,,290.0
+Cat_3,Cat_3_20260518_pm,2026-05-18 19:00:00,pm,213.0,2.5,False,False,1,,109.0
+Cat_3,Cat_3_20260519_am,2026-05-19 07:00:00,am,515.0,2.5,False,False,1,,199.0
+Cat_3,Cat_3_20260519_pm,2026-05-19 19:00:00,pm,600.0,2.5,False,False,1,,223.0
+Cat_3,Cat_3_20260520_am,2026-05-20 07:00:00,am,515.0,2.5,False,False,1,,230.0
+Cat_3,Cat_3_20260520_pm,2026-05-20 19:00:00,pm,370.0,2.5,False,False,1,,212.0
+Cat_3,Cat_3_20260521_am,2026-05-21 07:00:00,am,336.0,2.5,False,False,1,,177.0
+Cat_3,Cat_3_20260521_pm,2026-05-21 19:00:00,pm,599.0,2.5,False,False,2,,180.0
+Cat_3,Cat_3_20260522_am,2026-05-22 07:00:00,am,487.0,2.5,False,False,1,,217.0
+Cat_3,Cat_3_20260522_pm,2026-05-22 19:00:00,pm,379.0,2.5,False,False,1,,306.0
+Cat_3,Cat_3_20260523_am,2026-05-23 07:00:00,am,343.0,2.5,False,False,1,,172.0
+Cat_3,Cat_3_20260523_pm,2026-05-23 19:00:00,pm,217.0,2.5,False,False,1,,205.0
+Cat_3,Cat_3_20260524_am,2026-05-24 07:00:00,am,357.0,2.5,False,False,1,,222.0
+Cat_3,Cat_3_20260524_pm,2026-05-24 19:00:00,pm,255.0,2.5,False,False,1,,207.0
+Cat_3,Cat_3_20260525_am,2026-05-25 07:00:00,am,588.0,2.75,False,False,1,,327.0
+Cat_3,Cat_3_20260525_pm,2026-05-25 19:00:00,pm,229.0,2.75,False,False,1,,110.0
+Cat_3,Cat_3_20260526_am,2026-05-26 07:00:00,am,494.0,2.75,False,False,1,,195.0
+Cat_3,Cat_3_20260526_pm,2026-05-26 19:00:00,pm,465.0,2.75,False,False,1,,191.0
+Cat_3,Cat_3_20260527_am,2026-05-27 07:00:00,am,535.0,2.75,False,False,1,,191.0
+Cat_3,Cat_3_20260527_pm,2026-05-27 19:00:00,pm,189.0,2.75,False,False,1,,182.0
+Cat_3,Cat_3_20260528_am,2026-05-28 07:00:00,am,238.0,2.75,False,False,1,,105.0
+Cat_3,Cat_3_20260528_pm,2026-05-28 19:00:00,pm,535.0,2.75,False,False,1,,186.0
+Cat_3,Cat_3_20260529_am,2026-05-29 07:00:00,am,600.0,2.75,False,False,1,,174.0
+Cat_3,Cat_3_20260529_pm,2026-05-29 19:00:00,pm,545.0,2.75,False,False,1,,171.0
+Cat_3,Cat_3_20260530_am,2026-05-30 07:00:00,am,453.0,2.75,False,False,1,,161.0
+Cat_3,Cat_3_20260530_pm,2026-05-30 19:00:00,pm,371.0,2.75,False,False,1,,260.0
+Cat_3,Cat_3_20260531_am,2026-05-31 07:00:00,am,301.0,2.75,False,False,1,,198.0
+Cat_3,Cat_3_20260531_pm,2026-05-31 19:00:00,pm,108.0,0.0,True,False,0,,
+Cat_3,Cat_3_20260601_am,2026-06-01 07:00:00,am,600.0,2.75,False,False,1,,178.0
+Cat_3,Cat_3_20260601_pm,2026-06-01 19:00:00,pm,236.0,2.75,False,False,1,,209.0
+Cat_3,Cat_3_20260602_am,2026-06-02 07:00:00,am,173.0,2.75,False,False,2,,68.0
+Cat_3,Cat_3_20260602_pm,2026-06-02 19:00:00,pm,188.0,2.5,False,False,1,,122.0
+Cat_3,Cat_3_20260603_am,2026-06-03 07:00:00,am,317.0,2.5,False,False,2,,68.0
+Cat_3,Cat_3_20260603_pm,2026-06-03 19:00:00,pm,286.0,2.5,False,False,1,,166.0
+Cat_3,Cat_3_20260604_am,2026-06-04 07:00:00,am,376.0,2.5,False,False,1,,240.0
+Cat_3,Cat_3_20260604_pm,2026-06-04 19:00:00,pm,566.0,2.5,False,False,1,,240.0
+Cat_3,Cat_3_20260605_am,2026-06-05 07:00:00,am,368.0,2.5,False,False,1,,240.0
+Cat_3,Cat_3_20260605_pm,2026-06-05 19:00:00,pm,221.0,2.5,False,False,1,,85.0
+Cat_3,Cat_3_20260606_am,2026-06-06 07:00:00,am,600.0,2.5,False,False,1,,256.0
+Cat_3,Cat_3_20260606_pm,2026-06-06 19:00:00,pm,453.0,2.5,False,False,1,,181.0
+Cat_3,Cat_3_20260607_am,2026-06-07 07:00:00,am,313.0,2.5,False,False,1,,120.0
+Cat_3,Cat_3_20260607_pm,2026-06-07 19:00:00,pm,554.0,2.5,False,False,1,,203.0
+Cat_3,Cat_3_20260608_am,2026-06-08 07:00:00,am,599.0,2.5,False,False,1,,243.0
+Cat_3,Cat_3_20260608_pm,2026-06-08 19:00:00,pm,246.0,2.5,False,False,1,,131.0
+Cat_3,Cat_3_20260609_am,2026-06-09 07:00:00,am,600.0,2.5,False,False,1,,280.0
+Cat_3,Cat_3_20260609_pm,2026-06-09 19:00:00,pm,452.0,2.5,False,False,1,,223.0
+Cat_3,Cat_3_20260610_am,2026-06-10 07:00:00,am,589.0,2.5,False,False,1,,326.0
+Cat_3,Cat_3_20260610_pm,2026-06-10 19:00:00,pm,327.0,2.5,False,False,1,,203.0
+Cat_3,Cat_3_20260611_am,2026-06-11 07:00:00,am,357.0,2.5,False,False,1,,282.0
+Cat_3,Cat_3_20260611_pm,2026-06-11 19:00:00,pm,457.0,2.5,False,False,1,,151.0
+Cat_3,Cat_3_20260612_am,2026-06-12 07:00:00,am,531.0,2.5,False,False,1,,200.0
+Cat_3,Cat_3_20260612_pm,2026-06-12 19:00:00,pm,600.0,2.5,False,False,1,,311.0
+Cat_3,Cat_3_20260613_am,2026-06-13 07:00:00,am,302.0,2.5,False,False,1,,189.0
+Cat_3,Cat_3_20260613_pm,2026-06-13 19:00:00,pm,477.0,2.5,False,False,1,,199.0
+Cat_3,Cat_3_20260614_am,2026-06-14 07:00:00,am,232.0,2.5,False,False,1,,143.0
+Cat_3,Cat_3_20260614_pm,2026-06-14 19:00:00,pm,323.0,2.5,False,False,1,,183.0
+Cat_3,Cat_3_20260615_am,2026-06-15 07:00:00,am,398.0,2.5,False,False,1,,240.0
+Cat_3,Cat_3_20260615_pm,2026-06-15 19:00:00,pm,316.0,2.5,False,False,1,,144.0
+Cat_3,Cat_3_20260616_am,2026-06-16 07:00:00,am,554.0,2.5,False,False,1,,211.0
+Cat_3,Cat_3_20260616_pm,2026-06-16 19:00:00,pm,428.0,2.5,False,False,1,,177.0
+Cat_3,Cat_3_20260617_am,2026-06-17 07:00:00,am,440.0,2.5,False,False,1,,241.0
+Cat_3,Cat_3_20260617_pm,2026-06-17 19:00:00,pm,242.0,2.5,False,False,1,,114.0
+Cat_3,Cat_3_20260618_am,2026-06-18 07:00:00,am,569.0,2.5,False,False,1,,254.0
+Cat_3,Cat_3_20260618_pm,2026-06-18 19:00:00,pm,336.0,2.5,False,False,1,,230.0
+Cat_3,Cat_3_20260619_am,2026-06-19 07:00:00,am,317.0,2.5,False,False,1,,184.0
+Cat_3,Cat_3_20260619_pm,2026-06-19 19:00:00,pm,347.0,2.5,False,False,1,,191.0
+Cat_3,Cat_3_20260620_am,2026-06-20 07:00:00,am,600.0,2.5,False,False,1,,270.0
+Cat_3,Cat_3_20260620_pm,2026-06-20 19:00:00,pm,415.0,2.5,False,False,1,,174.0
+Cat_3,Cat_3_20260621_am,2026-06-21 07:00:00,am,600.0,2.5,False,False,1,,257.0
+Cat_3,Cat_3_20260621_pm,2026-06-21 19:00:00,pm,600.0,2.5,False,False,1,,225.0
+Cat_3,Cat_3_20260622_am,2026-06-22 07:00:00,am,494.0,2.5,False,False,1,,250.0
+Cat_3,Cat_3_20260622_pm,2026-06-22 19:00:00,pm,301.0,2.5,False,False,1,,154.0
+Cat_3,Cat_3_20260623_am,2026-06-23 07:00:00,am,317.0,2.5,False,False,1,,162.0
+Cat_3,Cat_3_20260623_pm,2026-06-23 19:00:00,pm,600.0,2.5,False,False,1,,225.0
+Cat_3,Cat_3_20260624_am,2026-06-24 07:00:00,am,600.0,2.5,False,False,1,,303.0
+Cat_3,Cat_3_20260624_pm,2026-06-24 19:00:00,pm,307.0,2.5,False,False,1,,99.0
+Cat_3,Cat_3_20260625_am,2026-06-25 07:00:00,am,598.0,2.5,False,False,1,,273.0
+Cat_3,Cat_3_20260625_pm,2026-06-25 19:00:00,pm,451.0,2.5,False,False,1,,221.0
+Cat_3,Cat_3_20260626_am,2026-06-26 07:00:00,am,600.0,2.5,False,False,1,,234.0
+Cat_3,Cat_3_20260626_pm,2026-06-26 19:00:00,pm,600.0,2.5,False,False,1,,270.0
+Cat_3,Cat_3_20260627_am,2026-06-27 07:00:00,am,354.0,2.5,False,False,1,,221.0
+Cat_3,Cat_3_20260627_pm,2026-06-27 19:00:00,pm,585.0,2.5,False,False,1,,177.0
+Cat_3,Cat_3_20260628_am,2026-06-28 07:00:00,am,600.0,2.5,False,False,1,,241.0
+Cat_3,Cat_3_20260628_pm,2026-06-28 19:00:00,pm,454.0,2.5,False,False,1,,244.0
+Cat_3,Cat_3_20260629_am,2026-06-29 07:00:00,am,301.0,2.75,False,False,1,,155.0
+Cat_3,Cat_3_20260629_pm,2026-06-29 19:00:00,pm,479.0,2.75,False,False,1,,203.0
+Cat_3,Cat_3_20260630_am,2026-06-30 07:00:00,am,327.0,2.75,False,False,1,,219.0
+Cat_3,Cat_3_20260630_pm,2026-06-30 19:00:00,pm,292.0,2.75,False,False,1,,134.0
+Cat_3,Cat_3_20260701_am,2026-07-01 07:00:00,am,550.0,2.75,False,False,1,,249.0
+Cat_3,Cat_3_20260701_pm,2026-07-01 19:00:00,pm,212.0,2.75,False,False,1,,101.0
+Cat_3,Cat_3_20260702_am,2026-07-02 07:00:00,am,499.0,2.75,False,False,1,,253.0
+Cat_3,Cat_3_20260702_pm,2026-07-02 19:00:00,pm,260.0,2.75,False,False,1,,145.0
+Cat_3,Cat_3_20260703_am,2026-07-03 07:00:00,am,495.0,2.75,False,False,1,,221.0
+Cat_3,Cat_3_20260703_pm,2026-07-03 19:00:00,pm,348.0,2.75,False,False,1,,160.0
+Cat_3,Cat_3_20260704_am,2026-07-04 07:00:00,am,471.0,2.75,False,False,1,,243.0
+Cat_3,Cat_3_20260704_pm,2026-07-04 19:00:00,pm,219.0,2.75,False,False,1,,80.0
+Cat_3,Cat_3_20260705_am,2026-07-05 07:00:00,am,296.0,2.75,False,False,1,,151.0
+Cat_3,Cat_3_20260705_pm,2026-07-05 19:00:00,pm,436.0,2.75,False,False,1,,144.0
+Cat_3,Cat_3_20260706_am,2026-07-06 07:00:00,am,551.0,2.75,False,False,1,,228.0
+Cat_3,Cat_3_20260706_pm,2026-07-06 19:00:00,pm,391.0,2.75,False,False,1,,141.0
+Cat_3,Cat_3_20260707_am,2026-07-07 07:00:00,am,552.0,2.0,False,False,1,,199.0
+Cat_3,Cat_3_20260707_pm,2026-07-07 19:00:00,pm,469.0,2.75,False,False,1,,289.0
+Cat_3,Cat_3_20260708_am,2026-07-08 07:00:00,am,317.0,2.75,False,False,1,,180.0
+Cat_3,Cat_3_20260708_pm,2026-07-08 19:00:00,pm,190.0,2.75,False,False,1,,89.0
+Cat_3,Cat_3_20260709_am,2026-07-09 07:00:00,am,378.0,2.75,False,False,1,,234.0
+Cat_3,Cat_3_20260709_pm,2026-07-09 19:00:00,pm,395.0,2.75,False,True,0,,
+Cat_3,Cat_3_20260710_am,2026-07-10 07:00:00,am,317.0,2.75,False,False,1,,156.0
+Cat_3,Cat_3_20260710_pm,2026-07-10 19:00:00,pm,151.0,2.0,False,False,1,,91.0
+Cat_3,Cat_3_20260711_am,2026-07-11 07:00:00,am,534.0,2.75,False,False,5,,519.0
+Cat_3,Cat_3_20260711_pm,2026-07-11 19:00:00,pm,450.0,2.75,False,False,1,,271.0
+Cat_3,Cat_3_20260712_am,2026-07-12 07:00:00,am,207.0,2.75,False,False,1,,120.0
+Cat_3,Cat_3_20260712_pm,2026-07-12 19:00:00,pm,265.0,2.75,False,False,1,,140.0
+Cat_3,Cat_3_20260713_am,2026-07-13 07:00:00,am,512.0,2.75,False,False,1,,197.0
+Cat_3,Cat_3_20260713_pm,2026-07-13 19:00:00,pm,600.0,2.75,False,False,1,,240.0
+Cat_3,Cat_3_20260714_am,2026-07-14 07:00:00,am,243.0,2.75,False,False,1,,135.0
+Cat_3,Cat_3_20260714_pm,2026-07-14 19:00:00,pm,265.0,2.75,False,False,1,,199.0
+Cat_3,Cat_3_20260715_am,2026-07-15 07:00:00,am,375.0,2.75,False,False,1,,240.0
+Cat_3,Cat_3_20260715_pm,2026-07-15 19:00:00,pm,248.0,2.75,False,False,1,,74.0
+Cat_3,Cat_3_20260716_am,2026-07-16 07:00:00,am,474.0,2.5,False,False,1,,289.0
+Cat_3,Cat_3_20260716_pm,2026-07-16 19:00:00,pm,377.0,2.5,False,False,1,,190.0
+Cat_3,Cat_3_20260717_am,2026-07-17 07:00:00,am,228.0,2.5,False,False,2,,73.0
+Cat_3,Cat_3_20260717_pm,2026-07-17 19:00:00,pm,599.0,2.5,False,False,1,,239.0
+Cat_3,Cat_3_20260718_am,2026-07-18 07:00:00,am,567.0,2.5,False,False,1,,237.0
+Cat_3,Cat_3_20260718_pm,2026-07-18 19:00:00,pm,364.0,2.5,False,False,1,,229.0
+Cat_3,Cat_3_20260719_am,2026-07-19 07:00:00,am,367.0,2.5,False,False,1,,157.0
+Cat_3,Cat_3_20260719_pm,2026-07-19 19:00:00,pm,557.0,2.5,False,False,1,,240.0
+Cat_3,Cat_3_20260720_am,2026-07-20 07:00:00,am,325.0,2.5,False,False,1,,105.0
+Cat_3,Cat_3_20260720_pm,2026-07-20 19:00:00,pm,362.0,2.5,False,False,1,,188.0
+Cat_3,Cat_3_20260721_am,2026-07-21 07:00:00,am,374.0,2.5,False,False,1,,189.0
+Cat_3,Cat_3_20260721_pm,2026-07-21 19:00:00,pm,600.0,2.5,False,False,1,,227.0
+Cat_3,Cat_3_20260722_am,2026-07-22 07:00:00,am,538.0,2.5,False,False,1,,205.0
+Cat_3,Cat_3_20260722_pm,2026-07-22 19:00:00,pm,569.0,2.5,False,False,1,,297.0
+Cat_3,Cat_3_20260723_am,2026-07-23 07:00:00,am,288.0,2.5,False,False,1,,146.0
+Cat_3,Cat_3_20260723_pm,2026-07-23 19:00:00,pm,467.0,2.5,False,False,1,,289.0
+Cat_3,Cat_3_20260724_am,2026-07-24 07:00:00,am,321.0,2.5,False,False,1,,264.0
+Cat_3,Cat_3_20260724_pm,2026-07-24 19:00:00,pm,364.0,2.5,False,False,1,,110.0
+Cat_3,Cat_3_20260725_am,2026-07-25 07:00:00,am,365.0,2.5,False,False,1,,178.0
+Cat_3,Cat_3_20260725_pm,2026-07-25 19:00:00,pm,574.0,2.5,False,False,1,,260.0
+Cat_3,Cat_3_20260726_am,2026-07-26 07:00:00,am,428.0,2.5,False,False,1,,414.0
+Cat_3,Cat_3_20260726_pm,2026-07-26 19:00:00,pm,547.0,2.5,False,False,1,,225.0
+Cat_3,Cat_3_20260727_am,2026-07-27 07:00:00,am,324.0,2.5,False,False,1,,232.0
+Cat_3,Cat_3_20260727_pm,2026-07-27 19:00:00,pm,310.0,2.5,False,False,1,,206.0
+Cat_3,Cat_3_20260728_am,2026-07-28 07:00:00,am,590.0,2.5,False,False,1,,198.0
+Cat_3,Cat_3_20260728_pm,2026-07-28 19:00:00,pm,600.0,2.5,False,False,1,,230.0
+Cat_3,Cat_3_20260729_am,2026-07-29 07:00:00,am,574.0,2.5,False,False,1,,281.0
+Cat_3,Cat_3_20260729_pm,2026-07-29 19:00:00,pm,304.0,2.5,False,False,1,,191.0
+Cat_3,Cat_3_20260730_am,2026-07-30 07:00:00,am,334.0,2.5,False,False,1,,231.0
+Cat_3,Cat_3_20260730_pm,2026-07-30 19:00:00,pm,314.0,2.5,False,False,1,,164.0
+Cat_3,Cat_3_20260731_am,2026-07-31 07:00:00,am,582.0,2.5,False,False,1,,302.0
+Cat_3,Cat_3_20260731_pm,2026-07-31 19:00:00,pm,326.0,2.5,False,False,1,,195.0
+Cat_3,Cat_3_20260801_am,2026-08-01 07:00:00,am,532.0,2.5,False,False,1,,230.0
+Cat_3,Cat_3_20260801_pm,2026-08-01 19:00:00,pm,535.0,2.5,False,False,1,,215.0
+Cat_3,Cat_3_20260802_am,2026-08-02 07:00:00,am,307.0,2.5,False,False,1,,176.0
+Cat_3,Cat_3_20260802_pm,2026-08-02 19:00:00,pm,178.0,2.5,False,False,1,,105.0
+Cat_3,Cat_3_20260803_am,2026-08-03 07:00:00,am,364.0,2.5,False,False,1,,212.0
+Cat_3,Cat_3_20260803_pm,2026-08-03 19:00:00,pm,495.0,2.5,False,False,1,,190.0
+Cat_3,Cat_3_20260804_am,2026-08-04 07:00:00,am,528.0,2.5,False,False,1,,214.0
+Cat_3,Cat_3_20260804_pm,2026-08-04 19:00:00,pm,501.0,2.5,False,False,1,,232.0
+Cat_3,Cat_3_20260805_am,2026-08-05 07:00:00,am,376.0,2.5,False,False,1,,243.0
+Cat_3,Cat_3_20260805_pm,2026-08-05 19:00:00,pm,364.0,2.5,False,False,1,,164.0
+Cat_3,Cat_3_20260806_am,2026-08-06 07:00:00,am,565.0,2.5,False,False,1,,286.0
+Cat_3,Cat_3_20260806_pm,2026-08-06 19:00:00,pm,327.0,2.5,False,False,1,,195.0
+Cat_3,Cat_3_20260807_am,2026-08-07 07:00:00,am,585.0,2.5,False,False,1,,282.0
+Cat_3,Cat_3_20260807_pm,2026-08-07 19:00:00,pm,425.0,2.5,False,False,1,,229.0
+Cat_3,Cat_3_20260808_am,2026-08-08 07:00:00,am,364.0,2.5,False,False,1,,197.0
+Cat_3,Cat_3_20260808_pm,2026-08-08 19:00:00,pm,587.0,2.5,False,False,1,,241.0
+Cat_3,Cat_3_20260809_am,2026-08-09 07:00:00,am,495.0,2.5,False,False,1,,248.0
+Cat_3,Cat_3_20260809_pm,2026-08-09 19:00:00,pm,268.0,2.5,False,False,1,,117.0
+Cat_3,Cat_3_20260810_am,2026-08-10 07:00:00,am,542.0,2.5,False,False,1,,378.0
+Cat_3,Cat_3_20260810_pm,2026-08-10 19:00:00,pm,364.0,2.5,False,False,1,,110.0
+Cat_3,Cat_3_20260811_am,2026-08-11 07:00:00,am,395.0,2.5,False,False,1,,181.0
+Cat_3,Cat_3_20260811_pm,2026-08-11 19:00:00,pm,600.0,2.5,False,False,1,,214.0
+Cat_3,Cat_3_20260812_am,2026-08-12 07:00:00,am,526.0,2.5,False,False,1,,289.0
+Cat_3,Cat_3_20260812_pm,2026-08-12 19:00:00,pm,275.0,2.5,False,False,1,,189.0
+Cat_3,Cat_3_20260813_am,2026-08-13 07:00:00,am,444.0,2.5,False,False,1,,216.0
+Cat_3,Cat_3_20260813_pm,2026-08-13 19:00:00,pm,570.0,2.5,False,False,1,,231.0
+Cat_3,Cat_3_20260814_am,2026-08-14 07:00:00,am,519.0,2.5,False,False,1,,289.0
+Cat_3,Cat_3_20260814_pm,2026-08-14 19:00:00,pm,276.0,2.75,False,False,1,,176.0
+Cat_3,Cat_3_20260815_am,2026-08-15 07:00:00,am,544.0,2.75,False,False,1,,262.0
+Cat_3,Cat_3_20260815_pm,2026-08-15 19:00:00,pm,125.0,0.0,True,False,0,,
+Cat_3,Cat_3_20260816_am,2026-08-16 07:00:00,am,532.0,2.75,False,False,1,,219.0
+Cat_3,Cat_3_20260816_pm,2026-08-16 19:00:00,pm,330.0,2.75,False,False,1,,234.0
+Cat_3,Cat_3_20260817_am,2026-08-17 07:00:00,am,251.0,2.75,False,False,1,,98.0
+Cat_3,Cat_3_20260817_pm,2026-08-17 19:00:00,pm,600.0,2.75,False,False,1,,264.0
+Cat_3,Cat_3_20260818_am,2026-08-18 07:00:00,am,378.0,2.75,False,False,1,,193.0
+Cat_3,Cat_3_20260818_pm,2026-08-18 19:00:00,pm,460.0,2.75,False,False,1,,230.0
+Cat_3,Cat_3_20260819_am,2026-08-19 07:00:00,am,364.0,2.75,False,False,1,,206.0
+Cat_3,Cat_3_20260819_pm,2026-08-19 19:00:00,pm,264.0,2.75,False,False,1,,191.0
+Cat_3,Cat_3_20260820_am,2026-08-20 07:00:00,am,587.0,2.75,False,False,1,,287.0
+Cat_3,Cat_3_20260820_pm,2026-08-20 19:00:00,pm,326.0,2.75,False,False,1,,240.0
+Cat_3,Cat_3_20260821_am,2026-08-21 07:00:00,am,363.0,2.75,False,False,1,,77.0
+Cat_3,Cat_3_20260821_pm,2026-08-21 19:00:00,pm,550.0,2.75,False,False,1,,180.0
+Cat_3,Cat_3_20260822_am,2026-08-22 07:00:00,am,600.0,2.75,False,False,1,,260.0
+Cat_3,Cat_3_20260822_pm,2026-08-22 19:00:00,pm,505.0,2.75,False,False,1,,224.0
+Cat_3,Cat_3_20260823_am,2026-08-23 07:00:00,am,553.0,2.75,False,False,1,,232.0
+Cat_3,Cat_3_20260823_pm,2026-08-23 19:00:00,pm,406.0,2.75,False,False,1,,135.0
+Cat_3,Cat_3_20260824_am,2026-08-24 07:00:00,am,217.0,2.75,False,False,1,,154.0
+Cat_3,Cat_3_20260824_pm,2026-08-24 19:00:00,pm,441.0,2.75,False,False,1,,212.0
+Cat_3,Cat_3_20260825_am,2026-08-25 07:00:00,am,564.0,2.75,False,False,1,,300.0
+Cat_3,Cat_3_20260825_pm,2026-08-25 19:00:00,pm,343.0,2.75,False,False,1,,285.0
+Cat_3,Cat_3_20260826_am,2026-08-26 07:00:00,am,434.0,2.75,False,False,1,,264.0
+Cat_3,Cat_3_20260826_pm,2026-08-26 19:00:00,pm,389.0,2.75,False,False,1,,155.0
+Cat_3,Cat_3_20260827_am,2026-08-27 07:00:00,am,600.0,2.75,False,False,1,,275.0
+Cat_3,Cat_3_20260827_pm,2026-08-27 19:00:00,pm,278.0,2.75,False,False,1,,226.0
+Cat_3,Cat_3_20260828_am,2026-08-28 07:00:00,am,237.0,2.75,False,False,1,,140.0
+Cat_3,Cat_3_20260828_pm,2026-08-28 19:00:00,pm,600.0,2.75,False,False,1,,340.0
+Cat_3,Cat_3_20260829_am,2026-08-29 07:00:00,am,295.0,2.75,False,False,1,,204.0
+Cat_3,Cat_3_20260829_pm,2026-08-29 19:00:00,pm,376.0,2.75,False,False,1,,212.0
+Cat_3,Cat_3_20260830_am,2026-08-30 07:00:00,am,317.0,2.75,False,False,1,,181.0
+Cat_3,Cat_3_20260830_pm,2026-08-30 19:00:00,pm,378.0,2.75,False,False,1,,187.0
+Cat_3,Cat_3_20260831_am,2026-08-31 07:00:00,am,580.0,2.75,False,False,1,,221.0
+Cat_3,Cat_3_20260831_pm,2026-08-31 19:00:00,pm,556.0,2.75,False,False,1,,228.0
+Cat_3,Cat_3_20260901_am,2026-09-01 07:00:00,am,417.0,2.75,False,False,1,,271.0
+Cat_3,Cat_3_20260901_pm,2026-09-01 19:00:00,pm,343.0,2.75,False,False,1,,315.0
+Cat_3,Cat_3_20260902_am,2026-09-02 07:00:00,am,264.0,2.75,False,False,1,,215.0
+Cat_3,Cat_3_20260902_pm,2026-09-02 19:00:00,pm,204.0,2.75,False,False,1,,99.0
+Cat_3,Cat_3_20260903_am,2026-09-03 07:00:00,am,521.0,2.75,False,False,1,,278.0
+Cat_3,Cat_3_20260903_pm,2026-09-03 19:00:00,pm,304.0,2.75,False,False,1,,171.0
+Cat_3,Cat_3_20260904_am,2026-09-04 07:00:00,am,394.0,2.75,False,False,1,,162.0
+Cat_3,Cat_3_20260904_pm,2026-09-04 19:00:00,pm,395.0,2.75,False,False,1,,146.0
+Cat_3,Cat_3_20260905_am,2026-09-05 07:00:00,am,534.0,2.75,False,False,1,,264.0
+Cat_3,Cat_3_20260905_pm,2026-09-05 19:00:00,pm,271.0,2.75,False,False,1,,147.0
+Cat_3,Cat_3_20260906_am,2026-09-06 07:00:00,am,300.0,2.75,False,False,1,,145.0
+Cat_3,Cat_3_20260906_pm,2026-09-06 19:00:00,pm,407.0,2.75,False,False,1,,222.0
+Cat_3,Cat_3_20260907_am,2026-09-07 07:00:00,am,515.0,2.75,False,False,1,,210.0
+Cat_3,Cat_3_20260907_pm,2026-09-07 19:00:00,pm,244.0,2.75,False,False,1,,172.0
+Cat_3,Cat_3_20260908_am,2026-09-08 07:00:00,am,254.0,2.75,False,False,2,,67.0
+Cat_3,Cat_3_20260908_pm,2026-09-08 19:00:00,pm,600.0,2.5,False,False,1,,171.0
+Cat_3,Cat_3_20260909_am,2026-09-09 07:00:00,am,467.0,2.5,False,False,1,,185.0
+Cat_3,Cat_3_20260909_pm,2026-09-09 19:00:00,pm,486.0,2.5,False,False,1,,254.0
+Cat_3,Cat_3_20260910_am,2026-09-10 07:00:00,am,396.0,2.5,False,False,1,,248.0
+Cat_3,Cat_3_20260910_pm,2026-09-10 19:00:00,pm,264.0,2.5,False,False,1,,129.0
+Cat_3,Cat_3_20260911_am,2026-09-11 07:00:00,am,585.0,2.5,False,False,1,,219.0
+Cat_3,Cat_3_20260911_pm,2026-09-11 19:00:00,pm,128.0,0.0,True,False,0,,
+Cat_3,Cat_3_20260912_am,2026-09-12 07:00:00,am,551.0,2.5,False,False,1,,241.0
+Cat_3,Cat_3_20260912_pm,2026-09-12 19:00:00,pm,326.0,2.5,False,False,1,,201.0
+Cat_3,Cat_3_20260913_am,2026-09-13 07:00:00,am,379.0,2.5,False,False,1,,205.0
+Cat_3,Cat_3_20260913_pm,2026-09-13 19:00:00,pm,477.0,2.5,False,False,1,,302.0
+Cat_3,Cat_3_20260914_am,2026-09-14 07:00:00,am,344.0,2.5,False,False,1,,600.0
+Cat_3,Cat_3_20260914_pm,2026-09-14 19:00:00,pm,475.0,2.5,False,False,1,,281.0
+Cat_3,Cat_3_20260915_am,2026-09-15 07:00:00,am,349.0,2.5,False,False,1,,188.0
+Cat_3,Cat_3_20260915_pm,2026-09-15 19:00:00,pm,418.0,2.5,False,False,1,,225.0
+Cat_3,Cat_3_20260916_am,2026-09-16 07:00:00,am,290.0,2.5,False,False,1,,225.0
+Cat_3,Cat_3_20260916_pm,2026-09-16 19:00:00,pm,294.0,2.5,False,False,1,,224.0
+Cat_3,Cat_3_20260917_am,2026-09-17 07:00:00,am,271.0,2.5,False,False,1,,150.0
+Cat_3,Cat_3_20260917_pm,2026-09-17 19:00:00,pm,553.0,2.5,False,False,1,,254.0
+Cat_3,Cat_3_20260918_am,2026-09-18 07:00:00,am,520.0,2.5,False,False,1,,195.0
+Cat_3,Cat_3_20260918_pm,2026-09-18 19:00:00,pm,541.0,2.5,False,False,1,,244.0
+Cat_3,Cat_3_20260919_am,2026-09-19 07:00:00,am,315.0,2.5,False,False,1,,190.0
+Cat_3,Cat_3_20260919_pm,2026-09-19 19:00:00,pm,150.0,2.5,False,False,2,,63.0
+Cat_3,Cat_3_20260920_am,2026-09-20 07:00:00,am,583.0,2.5,False,False,1,,197.0
+Cat_3,Cat_3_20260920_pm,2026-09-20 19:00:00,pm,540.0,2.5,False,False,1,,245.0
+Cat_3,Cat_3_20260921_am,2026-09-21 07:00:00,am,221.0,2.5,False,False,1,,82.0
+Cat_3,Cat_3_20260921_pm,2026-09-21 19:00:00,pm,600.0,2.5,False,False,0,,
+Cat_4,Cat_4_20250512_am,2025-05-12 07:00:00,am,355.0,2.2,False,False,11,"6pm REMOVED ALL DRY FOOD, DIABETES  AFFECTING HIND LEGS NOW- NEED TO GET REGULATED gave reduced dose as numbers were down at shot time and switch to all low carb canned",237.0
+Cat_4,Cat_4_20250512_pm,2025-05-12 19:00:00,pm,237.0,2.0,False,False,11,"6pm REMOVED ALL DRY FOOD, DIABETES  AFFECTING HIND LEGS NOW- NEED TO GET REGULATED gave reduced dose as numbers were down at shot time and switch to all low carb canned",199.0
+Cat_4,Cat_4_20250513_am,2025-05-13 07:00:00,am,350.0,2.2,False,False,11,,303.0
+Cat_4,Cat_4_20250513_pm,2025-05-13 19:00:00,pm,354.0,2.2,False,False,11,,271.0
+Cat_4,Cat_4_20250514_am,2025-05-14 07:00:00,am,256.0,2.0,False,False,11," am reduced to 2U, diarrhea overnight, threw up 1/2 can FF, refed an hour later, 5/8 can friskies mixed grill - still some left at 6 pm",62.0
+Cat_4,Cat_4_20250514_pm,2025-05-14 19:00:00,pm,114.0,0.0,True,False,11," am reduced to 2U, diarrhea overnight, threw up 1/2 can FF, refed an hour later, 5/8 can friskies mixed grill - still some left at 6 pm",115.0
+Cat_4,Cat_4_20250515_am,2025-05-15 07:00:00,am,385.0,1.5,False,False,11,reduced dose due to hypo event day before and changing to all low carb canned - IBD definitely flaring with diarrhea,276.0
+Cat_4,Cat_4_20250515_pm,2025-05-15 19:00:00,pm,331.0,1.5,False,False,11,reduced dose due to hypo event day before and changing to all low carb canned - IBD definitely flaring with diarrhea,280.0
+Cat_4,Cat_4_20250516_am,2025-05-16 07:00:00,am,350.0,1.5,False,False,11,"3/4 can fancy feast, 3/4 can friskies mixed grill for free feed - threw up fancy feast, refed 25 min later.",162.0
+Cat_4,Cat_4_20250516_pm,2025-05-16 19:00:00,pm,305.0,1.5,False,False,10,"3/4 can fancy feast, 3/4 can friskies mixed grill for free feed - threw up fancy feast, refed 25 min later.",298.0
+Cat_4,Cat_4_20250517_am,2025-05-17 07:00:00,am,309.0,1.5,False,False,11,,259.0
+Cat_4,Cat_4_20250517_pm,2025-05-17 19:00:00,pm,385.0,1.5,False,False,11,,269.0
+Cat_4,Cat_4_20250518_am,2025-05-18 07:00:00,am,267.0,1.5,False,False,11,Freesyle Libre showed BG dropping below 60 and falling *Gave 1/8 can fancy feast  around +7 to avert worse hypo event - no shot in pm due to extended action of insulin,60.0
+Cat_4,Cat_4_20250518_pm,2025-05-18 19:00:00,pm,144.0,0.0,True,False,11,Freesyle Libre showed BG dropping below 60 and falling *Gave 1/8 can fancy feast  around +7 to avert worse hypo event - no shot in pm due to extended action of insulin,174.0
+Cat_4,Cat_4_20250519_am,2025-05-19 07:00:00,am,396.0,1.0,False,False,11,lowered dose to 1U out of caution from switch to all low carb canned-VET SAYS NOT HYPO UNLESS UNDER 50,280.0
+Cat_4,Cat_4_20250519_pm,2025-05-19 19:00:00,pm,325.0,1.0,False,False,11,lowered dose to 1U out of caution from switch to all low carb canned-VET SAYS NOT HYPO UNLESS UNDER 50,163.0
+Cat_4,Cat_4_20250520_am,2025-05-20 07:00:00,am,400.0,1.0,False,False,11,lowered dose too much? WILL HOLD FOR 7 DAYS,322.0
+Cat_4,Cat_4_20250520_pm,2025-05-20 19:00:00,pm,336.0,1.0,False,False,10,lowered dose too much? WILL HOLD FOR 7 DAYS,228.0
+Cat_4,Cat_4_20250522_am,2025-05-22 07:00:00,am,314.0,1.0,False,False,11,,209.0
+Cat_4,Cat_4_20250522_pm,2025-05-22 19:00:00,pm,298.0,1.0,False,False,10,,279.0
+Cat_4,Cat_4_20250523_am,2025-05-23 07:00:00,am,362.0,1.0,False,False,11,,289.0
+Cat_4,Cat_4_20250523_pm,2025-05-23 19:00:00,pm,350.0,1.0,False,False,11,,230.0
+Cat_4,Cat_4_20250524_am,2025-05-24 07:00:00,am,301.0,1.0,False,False,11,,332.0
+Cat_4,Cat_4_20250524_pm,2025-05-24 19:00:00,pm,400.0,1.0,False,False,11,,338.0
+Cat_4,Cat_4_20250525_am,2025-05-25 07:00:00,am,348.0,1.0,False,False,11,,253.0
+Cat_4,Cat_4_20250525_pm,2025-05-25 19:00:00,pm,343.0,1.0,False,False,11,,80.0
+Cat_4,Cat_4_20250526_am,2025-05-26 07:00:00,am,171.0,1.0,False,False,5,LIBRE SENSOR STOPPED WORKIING AT 1 PM,112.0
+Cat_4,Cat_4_20250526_pm,2025-05-26 19:00:00,pm,,1.0,False,False,0,LIBRE SENSOR STOPPED WORKIING AT 1 PM,
+Cat_4,Cat_4_20250527_am,2025-05-27 07:00:00,am,,1.0,False,False,0,,
+Cat_4,Cat_4_20250527_pm,2025-05-27 19:00:00,pm,,1.0,False,False,11,,236.0
+Cat_4,Cat_4_20250528_am,2025-05-28 07:00:00,am,320.0,1.0,False,False,11,,164.0
+Cat_4,Cat_4_20250528_pm,2025-05-28 19:00:00,pm,200.0,1.0,False,False,11,,219.0
+Cat_4,Cat_4_20250529_am,2025-05-29 07:00:00,am,400.0,1.0,False,False,11,,328.0
+Cat_4,Cat_4_20250529_pm,2025-05-29 19:00:00,pm,326.0,1.0,False,False,11,,293.0
+Cat_4,Cat_4_20250530_am,2025-05-30 07:00:00,am,295.0,1.25,False,False,11,,254.0
+Cat_4,Cat_4_20250530_pm,2025-05-30 19:00:00,pm,308.0,1.25,False,False,11,,279.0
+Cat_4,Cat_4_20250531_am,2025-05-31 07:00:00,am,359.0,1.25,False,False,11,sensor failure happening?,203.0
+Cat_4,Cat_4_20250531_pm,2025-05-31 19:00:00,pm,322.0,1.25,False,False,11,sensor failure happening?,400.0
+Cat_4,Cat_4_20250601_am,2025-06-01 07:00:00,am,400.0,1.25,False,False,4,SENSOR FAILURE IN AM (BENT FILAMENT)- REAPLACED IN PM,400.0
+Cat_4,Cat_4_20250601_pm,2025-06-01 19:00:00,pm,,1.25,False,False,10,SENSOR FAILURE IN AM (BENT FILAMENT)- REAPLACED IN PM,329.0
+Cat_4,Cat_4_20250602_am,2025-06-02 07:00:00,am,354.0,1.25,False,False,11,,292.0
+Cat_4,Cat_4_20250602_pm,2025-06-02 19:00:00,pm,301.0,1.25,False,False,11,,319.0
+Cat_4,Cat_4_20250603_am,2025-06-03 07:00:00,am,400.0,1.25,False,False,11,,325.0
+Cat_4,Cat_4_20250603_pm,2025-06-03 19:00:00,pm,357.0,1.25,False,False,11,,285.0
+Cat_4,Cat_4_20250604_am,2025-06-04 07:00:00,am,348.0,1.25,False,False,11,,306.0
+Cat_4,Cat_4_20250604_pm,2025-06-04 19:00:00,pm,339.0,1.5,False,False,11,,321.0
+Cat_4,Cat_4_20250605_am,2025-06-05 07:00:00,am,367.0,1.5,False,False,11,,160.0
+Cat_4,Cat_4_20250605_pm,2025-06-05 19:00:00,pm,268.0,1.5,False,False,11,,309.0
+Cat_4,Cat_4_20250606_am,2025-06-06 07:00:00,am,393.0,1.5,False,False,11,,215.0
+Cat_4,Cat_4_20250606_pm,2025-06-06 19:00:00,pm,215.0,1.5,False,False,11,,216.0
+Cat_4,Cat_4_20250607_am,2025-06-07 07:00:00,am,400.0,1.5,False,False,11,,302.0
+Cat_4,Cat_4_20250607_pm,2025-06-07 19:00:00,pm,302.0,1.5,False,False,11,,248.0
+Cat_4,Cat_4_20250608_am,2025-06-08 07:00:00,am,314.0,1.5,False,False,10,,282.0
+Cat_4,Cat_4_20250608_pm,2025-06-08 19:00:00,pm,298.0,1.5,False,False,11,,211.0
+Cat_4,Cat_4_20250609_am,2025-06-09 07:00:00,am,281.0,1.75,False,False,11,fed med carb food 1 tsp at 1:30 am,222.0
+Cat_4,Cat_4_20250609_pm,2025-06-09 19:00:00,pm,270.0,1.75,False,False,11,fed med carb food 1 tsp at 1:30 am,45.0
+Cat_4,Cat_4_20250610_am,2025-06-10 07:00:00,am,400.0,1.5,False,False,11,dose reduction 6 am,293.0
+Cat_4,Cat_4_20250610_pm,2025-06-10 19:00:00,pm,334.0,1.6,False,False,10,dose reduction 6 am,274.0
+Cat_4,Cat_4_20250611_am,2025-06-11 07:00:00,am,394.0,1.5,False,False,11,,294.0
+Cat_4,Cat_4_20250611_pm,2025-06-11 19:00:00,pm,284.0,1.5,False,False,11,,44.0
+Cat_4,Cat_4_20250612_am,2025-06-12 07:00:00,am,277.0,1.25,False,False,11,Dose reduction 6 am. Libre Hypo alarms going off for hours last night. Ate a lot at 12 am this the rise. He's hungry tonight!,266.0
+Cat_4,Cat_4_20250612_pm,2025-06-12 19:00:00,pm,400.0,1.5,False,False,11,Dose reduction 6 am. Libre Hypo alarms going off for hours last night. Ate a lot at 12 am this the rise. He's hungry tonight!,110.0
+Cat_4,Cat_4_20250613_am,2025-06-13 07:00:00,am,400.0,1.5,False,False,11,,287.0
+Cat_4,Cat_4_20250613_pm,2025-06-13 19:00:00,pm,342.0,1.5,False,False,11,,293.0
+Cat_4,Cat_4_20250614_am,2025-06-14 07:00:00,am,369.0,1.5,False,False,11,,240.0
+Cat_4,Cat_4_20250614_pm,2025-06-14 19:00:00,pm,300.0,,False,True,11,,300.0
+Cat_4,Cat_4_20250615_am,2025-06-15 07:00:00,am,396.0,1.5,False,False,11,,284.0
+Cat_4,Cat_4_20250615_pm,2025-06-15 19:00:00,pm,261.0,1.5,False,False,11,,94.0
+Cat_4,Cat_4_20250616_am,2025-06-16 07:00:00,am,309.0,1.5,False,False,0,,
